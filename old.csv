@@ -1,0 +1,1000 @@
+medications,water,sleep_patterns,height,weight,numberof_meals,family_history,alcohol,smoke,loss_of_muscle_mass,mobility_issues,age,gender,stress,poor_diet,heart_disease,asthma,diabetes,economic_constraints,isolation,digestive_issues,chronic_pain,class_level
+no,3,yes,170,66,2,no,no,frequently,yes,yes,66,male,acute stress,frequently,yes,yes,no,no,yes,no,yes,no
+no,3,yes,190,49,2,no,yes,sometimes,yes,yes,85,female,acute stress,sometimes,yes,yes,yes,yes,yes,yes,yes,no
+yes,4,yes,187,63,3,no,no,never,yes,yes,77,male,episodic,frequently,yes,yes,yes,no,no,yes,yes,no
+yes,4,no,182,61,3,yes,no,sometimes,yes,yes,73,male,chronic stress,sometimes,yes,yes,yes,no,no,no,yes,yes
+yes,1,yes,145,57,2,no,yes,frequently,yes,yes,71,female,chronic stress,frequently,yes,yes,yes,yes,no,no,no,no
+no,4,yes,142,93,2,no,no,frequently,no,yes,73,male,acute stress,frequently,no,yes,yes,no,no,yes,yes,no
+no,1,no,141,89,4,no,no,never,no,yes,81,female,chronic stress,never,no,no,no,no,yes,yes,yes,no
+no,5,yes,179,100,3,no,no,never,no,yes,78,female,chronic stress,sometimes,no,yes,no,yes,no,yes,yes,no
+no,3,no,185,49,2,no,no,never,no,yes,65,male,chronic stress,frequently,no,no,yes,yes,no,yes,yes,no
+no,3,yes,163,50,3,no,no,frequently,no,no,83,male,acute stress,sometimes,no,yes,no,no,yes,no,yes,yes
+no,1,no,162,52,4,no,no,never,no,yes,65,female,chronic stress,never,no,no,no,no,no,no,yes,no
+yes,3,no,171,67,3,no,no,never,no,yes,82,male,acute stress,sometimes,yes,yes,yes,no,yes,no,yes,yes
+yes,4,no,142,51,3,no,yes,never,yes,yes,72,female,acute stress,frequently,yes,no,yes,yes,no,no,yes,yes
+yes,3,no,156,45,2,no,no,never,no,yes,79,female,acute stress,never,no,no,no,yes,yes,no,no,yes
+no,4,no,179,61,2,no,no,never,no,yes,85,female,chronic stress,sometimes,yes,no,yes,no,no,no,yes,yes
+yes,4,yes,178,52,2,no,no,never,yes,yes,77,male,chronic stress,never,yes,yes,no,yes,yes,yes,yes,yes
+no,4,yes,142,56,2,no,no,never,no,yes,78,male,acute stress,frequently,no,no,no,yes,yes,no,no,no
+yes,4,yes,175,51,3,no,no,never,yes,yes,66,male,chronic stress,never,yes,yes,yes,yes,yes,yes,yes,no
+no,5,yes,170,50,3,no,no,never,no,yes,78,male,acute stress,frequently,no,no,yes,yes,no,no,no,no
+no,4,no,184,97,3,no,no,never,no,yes,67,male,chronic stress,frequently,no,no,yes,no,yes,yes,no,no
+no,5,yes,188,82,3,no,no,never,no,yes,80,female,chronic stress,sometimes,no,yes,no,no,no,yes,yes,no
+no,3,yes,146,55,3,yes,yes,never,no,yes,74,female,chronic stress,sometimes,no,no,no,no,no,no,no,yes
+yes,5,no,140,77,2,no,no,never,yes,yes,68,female,episodic,frequently,yes,no,yes,yes,yes,yes,yes,yes
+no,4,no,151,67,3,no,no,never,no,yes,82,female,chronic stress,sometimes,no,yes,no,yes,yes,yes,yes,no
+no,3,no,171,64,3,no,no,never,no,yes,82,male,chronic stress,sometimes,no,no,yes,yes,no,yes,no,no
+yes,3,yes,167,95,3,no,no,never,no,yes,84,male,chronic stress,sometimes,yes,yes,yes,yes,no,no,yes,yes
+no,3,no,156,77,3,no,no,never,no,yes,68,male,acute stress,frequently,no,no,yes,no,yes,no,no,no
+no,2,no,173,84,3,no,no,never,no,yes,77,male,chronic stress,never,no,no,no,yes,yes,no,no,no
+no,4,no,177,47,2,no,no,never,no,no,69,male,acute stress,never,no,yes,no,yes,no,no,no,yes
+no,4,no,140,79,3,no,no,never,no,yes,75,male,acute stress,frequently,no,no,no,yes,yes,no,no,no
+no,3,yes,166,59,3,no,no,never,no,yes,75,male,chronic stress,sometimes,no,yes,no,yes,no,yes,yes,no
+no,1,no,146,57,4,no,no,never,no,yes,67,female,chronic stress,never,no,no,no,yes,yes,no,yes,no
+no,2,yes,151,69,2,no,no,never,no,yes,81,male,acute stress,sometimes,no,yes,yes,yes,no,no,yes,no
+no,4,yes,147,68,4,no,no,sometimes,no,yes,77,male,episodic,never,no,yes,yes,no,yes,yes,no,no
+yes,4,yes,188,49,3,no,yes,frequently,no,yes,83,female,chronic stress,frequently,yes,no,no,yes,yes,yes,no,yes
+no,3,no,161,74,2,no,no,never,no,yes,73,male,acute stress,never,no,yes,yes,no,yes,no,yes,no
+no,3,yes,143,47,1,no,no,never,no,no,71,female,acute stress,never,no,yes,no,yes,no,yes,yes,no
+yes,3,yes,189,76,2,no,yes,never,no,yes,79,female,acute stress,sometimes,no,yes,yes,yes,no,yes,no,no
+no,5,no,175,76,2,no,no,never,no,no,78,female,chronic stress,frequently,yes,yes,yes,yes,yes,no,yes,yes
+no,5,yes,172,84,2,no,yes,never,no,no,75,female,chronic stress,never,no,yes,yes,yes,yes,yes,no,no
+yes,4,yes,162,73,3,yes,yes,never,no,no,70,female,acute stress,sometimes,no,no,no,yes,yes,yes,yes,no
+no,5,yes,164,61,2,no,no,sometimes,no,no,73,male,chronic stress,frequently,no,yes,no,no,no,yes,no,no
+no,3,yes,168,90,1,no,no,never,no,no,67,female,acute stress,never,no,yes,no,yes,yes,no,yes,no
+no,4,yes,161,88,3,yes,yes,never,yes,yes,68,male,acute stress,sometimes,yes,yes,yes,yes,yes,yes,yes,no
+no,4,no,155,52,2,no,no,never,no,no,73,male,chronic stress,frequently,yes,yes,no,no,yes,yes,yes,no
+no,3,yes,162,86,2,no,no,never,no,no,77,male,chronic stress,never,no,yes,no,yes,no,no,no,no
+yes,5,no,170,74,4,no,no,never,no,yes,81,female,chronic stress,sometimes,no,no,no,yes,no,yes,yes,no
+no,3,no,164,46,3,no,no,never,no,yes,66,male,chronic stress,never,no,no,no,yes,yes,yes,no,no
+no,4,no,189,70,3,no,no,never,no,yes,85,male,chronic stress,sometimes,no,no,no,yes,yes,yes,no,no
+no,2,no,181,54,2,no,no,never,no,yes,83,male,acute stress,frequently,yes,no,yes,no,no,yes,yes,no
+no,2,yes,145,76,3,no,no,never,no,yes,66,female,chronic stress,frequently,no,yes,yes,yes,no,yes,no,no
+no,5,no,153,59,3,no,no,never,no,yes,66,female,acute stress,never,no,no,yes,no,no,no,no,no
+no,4,no,177,91,3,no,no,never,no,yes,65,male,chronic stress,never,no,no,no,no,no,yes,no,no
+no,3,yes,146,72,3,no,no,never,no,yes,74,male,acute stress,sometimes,no,yes,no,yes,no,yes,no,no
+no,5,no,157,71,4,no,yes,never,no,yes,75,female,chronic stress,sometimes,no,no,yes,no,no,yes,no,no
+no,3,yes,160,72,1,no,no,never,no,no,84,female,acute stress,never,no,yes,no,no,yes,no,yes,no
+no,3,no,153,93,3,no,no,never,no,yes,85,male,acute stress,never,yes,yes,yes,no,yes,no,no,no
+no,2,yes,165,97,4,no,no,sometimes,no,yes,82,male,chronic stress,frequently,no,yes,yes,no,no,no,no,no
+no,3,no,174,93,2,no,no,never,no,yes,79,male,chronic stress,sometimes,no,no,yes,yes,no,yes,no,no
+no,2,yes,150,65,4,no,no,sometimes,no,yes,80,male,acute stress,never,no,yes,no,no,yes,yes,no,no
+no,2,yes,186,68,3,no,yes,never,yes,yes,73,female,episodic,frequently,no,yes,no,yes,no,yes,no,no
+yes,3,yes,174,88,2,no,yes,never,no,no,75,female,acute stress,never,yes,no,no,yes,yes,yes,yes,no
+no,5,yes,154,76,3,no,no,never,yes,no,75,male,chronic stress,sometimes,yes,no,no,no,no,no,yes,no
+no,1,no,167,75,4,no,no,never,no,yes,66,female,chronic stress,never,no,no,no,no,yes,no,yes,no
+yes,5,yes,151,98,2,no,yes,never,no,no,70,female,acute stress,never,yes,no,no,yes,no,yes,yes,yes
+no,4,yes,161,100,3,yes,yes,never,no,no,80,female,chronic stress,sometimes,yes,no,no,yes,yes,yes,yes,yes
+yes,2,yes,141,55,2,no,no,never,yes,no,80,male,chronic stress,frequently,yes,yes,yes,no,no,yes,no,yes
+no,5,yes,174,72,2,no,no,never,no,no,77,male,acute stress,frequently,no,no,yes,yes,no,yes,yes,yes
+yes,2,no,150,74,2,no,yes,never,no,no,79,female,chronic stress,never,no,no,yes,no,no,no,yes,no
+no,1,yes,149,98,3,no,yes,never,no,no,73,female,acute stress,sometimes,no,no,yes,no,no,yes,yes,no
+yes,3,yes,157,84,3,no,no,never,no,no,78,male,acute stress,sometimes,no,yes,yes,no,yes,no,yes,no
+no,5,yes,183,80,2,no,yes,never,no,no,74,female,chronic stress,sometimes,no,yes,no,no,yes,no,no,yes
+no,4,yes,178,89,2,yes,yes,never,yes,no,77,female,acute stress,frequently,yes,yes,no,yes,no,yes,no,no
+no,4,yes,159,61,3,yes,no,never,no,no,80,male,episodic,never,no,yes,no,no,yes,no,yes,no
+no,5,yes,170,82,4,no,no,never,yes,no,77,male,acute stress,frequently,no,no,yes,no,no,yes,no,no
+no,5,yes,145,83,2,no,yes,never,no,no,67,male,chronic stress,sometimes,no,no,yes,no,no,yes,no,no
+no,4,yes,140,75,2,no,yes,never,no,no,69,female,acute stress,sometimes,no,no,no,yes,yes,yes,no,yes
+no,5,no,156,100,3,no,no,never,no,no,73,male,chronic stress,sometimes,no,no,yes,no,no,yes,no,no
+no,5,yes,185,55,2,no,yes,never,yes,no,83,female,episodic,frequently,no,yes,yes,yes,no,yes,no,no
+no,4,no,140,95,2,no,no,never,no,no,66,male,acute stress,never,no,yes,no,no,no,no,yes,no
+yes,5,yes,174,80,4,no,no,never,yes,no,71,male,chronic stress,frequently,yes,no,no,no,no,yes,yes,no
+no,3,yes,144,59,1,no,no,never,no,no,80,female,acute stress,never,no,yes,no,no,yes,no,yes,no
+no,4,yes,155,72,4,no,no,never,no,no,82,female,acute stress,sometimes,no,no,yes,no,yes,yes,yes,no
+no,5,yes,155,96,4,no,no,never,no,no,84,female,chronic stress,never,no,yes,no,yes,yes,no,no,no
+yes,5,yes,185,49,4,yes,yes,never,yes,no,76,female,acute stress,never,no,yes,no,no,no,no,no,yes
+yes,3,yes,159,56,3,no,yes,never,yes,no,80,male,chronic stress,sometimes,yes,yes,no,yes,no,no,no,yes
+no,1,no,177,94,4,no,no,never,no,yes,76,female,chronic stress,never,no,no,no,no,no,no,yes,no
+yes,4,yes,149,62,2,no,no,never,no,no,84,female,acute stress,frequently,yes,no,yes,no,no,no,yes,no
+no,2,yes,178,62,3,no,no,never,no,no,83,female,chronic stress,sometimes,no,yes,no,yes,no,yes,no,no
+yes,4,yes,153,53,3,no,no,never,yes,no,68,female,episodic,frequently,no,no,no,no,no,no,no,no
+no,5,no,157,75,2,no,yes,never,no,no,75,female,chronic stress,frequently,no,no,no,yes,no,yes,no,no
+yes,5,no,153,89,2,no,no,never,no,no,81,female,chronic stress,sometimes,no,yes,no,yes,yes,no,yes,no
+no,2,yes,156,69,3,no,yes,never,no,no,82,female,chronic stress,sometimes,no,no,no,no,yes,no,no,no
+no,1,no,171,98,2,no,no,never,no,no,81,male,chronic stress,frequently,no,no,no,yes,yes,no,no,no
+yes,2,yes,190,86,2,yes,no,never,no,no,72,female,chronic stress,frequently,yes,no,yes,yes,no,yes,no,yes
+yes,3,yes,152,64,3,no,yes,never,no,no,75,female,chronic stress,sometimes,no,yes,yes,yes,yes,yes,no,no
+yes,3,no,167,48,3,yes,no,sometimes,no,no,69,female,chronic stress,sometimes,yes,no,no,no,yes,no,no,yes
+no,2,no,153,76,3,no,no,never,no,no,79,female,episodic,never,no,no,no,yes,yes,no,no,no
+yes,3,yes,149,78,3,no,no,never,no,yes,75,male,chronic stress,sometimes,yes,yes,no,no,yes,no,yes,no
+yes,2,yes,140,45,2,no,no,never,yes,no,73,male,acute stress,sometimes,yes,yes,yes,no,yes,yes,yes,no
+yes,3,yes,168,78,4,yes,no,never,yes,yes,76,male,chronic stress,sometimes,yes,yes,no,yes,yes,no,yes,no
+yes,5,yes,164,53,2,yes,no,never,yes,yes,75,male,chronic stress,never,yes,yes,no,yes,yes,no,yes,yes
+yes,5,yes,163,67,2,yes,yes,sometimes,yes,yes,80,male,chronic stress,sometimes,yes,yes,yes,no,yes,no,yes,yes
+yes,4,yes,156,78,3,yes,yes,never,yes,yes,65,female,chronic stress,sometimes,yes,yes,no,yes,no,no,yes,yes
+yes,4,yes,153,57,2,yes,no,sometimes,yes,yes,74,male,acute stress,frequently,yes,yes,no,yes,no,no,yes,yes
+yes,5,yes,180,47,3,yes,no,never,yes,no,67,male,acute stress,frequently,yes,yes,yes,yes,yes,yes,yes,yes
+yes,4,yes,173,82,2,yes,yes,sometimes,yes,no,81,male,acute stress,sometimes,yes,yes,no,yes,no,no,yes,yes
+yes,3,yes,183,81,3,yes,no,never,yes,no,74,male,chronic stress,frequently,yes,yes,no,no,yes,yes,yes,yes
+yes,3,yes,150,96,2,yes,no,frequently,yes,no,82,male,episodic,never,yes,yes,no,yes,yes,no,yes,yes
+yes,4,yes,182,72,3,yes,yes,sometimes,yes,no,68,female,acute stress,frequently,yes,yes,yes,yes,no,no,yes,yes
+yes,4,yes,186,78,2,yes,yes,sometimes,yes,no,66,female,acute stress,sometimes,yes,yes,no,yes,no,yes,yes,yes
+yes,5,yes,152,82,2,yes,no,never,yes,no,72,male,chronic stress,sometimes,yes,yes,no,yes,yes,no,yes,yes
+yes,4,yes,140,99,3,yes,yes,never,yes,no,83,female,acute stress,sometimes,yes,yes,yes,yes,no,no,yes,yes
+yes,3,yes,148,72,2,yes,yes,sometimes,yes,no,79,female,acute stress,never,yes,yes,yes,yes,yes,no,yes,yes
+yes,4,yes,180,77,3,yes,yes,never,yes,no,68,female,acute stress,sometimes,yes,yes,no,yes,yes,yes,yes,yes
+yes,3,yes,160,46,3,yes,yes,never,yes,no,68,female,episodic,sometimes,yes,yes,no,yes,yes,no,yes,yes
+yes,3,yes,161,49,3,yes,yes,never,yes,no,71,female,episodic,sometimes,yes,yes,yes,yes,no,yes,yes,yes
+yes,3,yes,140,69,3,yes,no,never,yes,no,73,male,episodic,never,yes,yes,no,yes,no,yes,yes,yes
+yes,2,yes,183,100,2,no,no,never,yes,no,75,male,acute stress,sometimes,yes,yes,no,no,no,yes,yes,yes
+yes,3,yes,189,83,3,yes,no,never,yes,no,84,male,episodic,sometimes,yes,yes,no,yes,no,yes,yes,yes
+yes,5,yes,145,83,2,yes,no,never,yes,no,73,male,episodic,frequently,yes,yes,yes,yes,yes,yes,yes,yes
+yes,3,yes,175,72,3,yes,yes,sometimes,yes,no,66,female,acute stress,sometimes,yes,yes,no,no,yes,yes,yes,yes
+yes,3,yes,166,61,2,yes,yes,sometimes,yes,no,79,female,acute stress,sometimes,yes,yes,no,yes,no,yes,yes,yes
+yes,4,no,145,64,2,yes,no,never,yes,no,73,male,acute stress,sometimes,yes,yes,yes,no,no,no,yes,no
+yes,3,yes,190,79,3,no,no,never,no,no,71,male,acute stress,sometimes,yes,yes,yes,yes,no,no,yes,no
+yes,5,yes,142,61,3,no,no,frequently,no,no,77,male,acute stress,sometimes,yes,yes,yes,no,no,yes,yes,yes
+yes,4,yes,181,87,4,yes,yes,sometimes,yes,no,76,female,chronic stress,frequently,yes,yes,yes,no,no,yes,no,yes
+yes,3,no,166,85,4,no,no,never,no,no,68,female,acute stress,sometimes,yes,no,yes,yes,yes,no,yes,yes
+yes,2,yes,170,47,3,no,no,never,yes,no,76,male,acute stress,sometimes,yes,yes,yes,yes,no,no,yes,no
+yes,3,yes,177,72,2,yes,yes,frequently,yes,no,68,female,episodic,sometimes,yes,yes,no,yes,no,yes,yes,yes
+yes,3,no,164,64,2,yes,no,frequently,yes,no,83,male,acute stress,never,yes,yes,no,no,yes,yes,no,yes
+yes,3,yes,161,100,3,no,no,sometimes,yes,no,69,male,episodic,frequently,yes,yes,yes,yes,yes,yes,yes,yes
+yes,1,yes,182,87,3,no,no,sometimes,yes,no,79,male,acute stress,sometimes,yes,yes,yes,no,yes,no,yes,yes
+yes,3,yes,188,97,3,yes,no,frequently,yes,no,73,male,acute stress,sometimes,yes,yes,yes,yes,yes,yes,yes,yes
+yes,4,no,143,64,4,yes,no,never,yes,no,83,male,acute stress,never,yes,yes,yes,yes,no,yes,yes,yes
+yes,1,yes,175,67,4,no,no,never,yes,no,68,male,acute stress,frequently,yes,yes,no,yes,no,yes,yes,yes
+yes,5,yes,154,85,3,yes,no,frequently,yes,no,71,male,chronic stress,never,yes,yes,no,yes,yes,yes,yes,yes
+yes,4,yes,143,78,4,yes,yes,frequently,yes,no,75,female,episodic,never,yes,yes,no,yes,no,no,yes,yes
+yes,3,yes,144,87,2,yes,yes,never,yes,no,75,female,episodic,sometimes,yes,yes,no,yes,no,yes,yes,yes
+yes,5,yes,166,92,3,yes,yes,sometimes,yes,no,79,female,episodic,sometimes,yes,yes,no,no,yes,no,yes,yes
+yes,3,yes,149,96,4,yes,yes,sometimes,yes,no,76,female,acute stress,sometimes,yes,yes,yes,no,no,yes,yes,yes
+yes,4,yes,158,62,3,yes,yes,sometimes,yes,no,65,female,episodic,sometimes,yes,yes,no,yes,no,yes,yes,yes
+yes,4,yes,184,67,4,yes,yes,sometimes,yes,yes,67,female,acute stress,sometimes,yes,yes,no,yes,yes,no,yes,yes
+yes,5,yes,182,66,3,yes,yes,sometimes,yes,yes,75,female,episodic,frequently,yes,yes,no,no,no,no,yes,yes
+yes,4,yes,151,93,4,yes,yes,frequently,yes,yes,65,female,episodic,frequently,yes,yes,yes,yes,yes,yes,yes,no
+yes,4,yes,163,97,3,yes,yes,never,yes,yes,84,female,acute stress,frequently,yes,yes,no,yes,yes,yes,yes,yes
+yes,3,yes,169,91,3,no,no,never,yes,yes,73,male,chronic stress,never,yes,yes,no,no,yes,yes,yes,yes
+yes,4,yes,151,94,3,no,no,never,yes,yes,76,male,episodic,sometimes,yes,yes,yes,no,yes,no,yes,no
+yes,3,yes,187,93,2,yes,no,frequently,yes,yes,85,male,episodic,never,yes,yes,yes,no,yes,no,yes,yes
+yes,2,yes,165,97,3,yes,yes,sometimes,yes,yes,69,female,acute stress,sometimes,yes,yes,no,no,no,no,yes,yes
+yes,4,yes,171,45,4,yes,yes,frequently,yes,yes,67,female,episodic,sometimes,yes,yes,no,yes,yes,no,yes,yes
+yes,4,yes,164,99,3,yes,yes,never,yes,yes,75,female,acute stress,frequently,yes,yes,no,no,yes,yes,yes,yes
+yes,3,yes,174,75,3,yes,no,never,yes,no,67,female,acute stress,frequently,yes,yes,yes,no,yes,no,yes,yes
+yes,3,yes,140,80,3,yes,yes,frequently,yes,no,84,female,acute stress,frequently,yes,yes,yes,yes,yes,yes,yes,yes
+yes,3,yes,175,45,2,no,no,sometimes,yes,no,71,male,episodic,never,yes,yes,yes,no,yes,no,yes,yes
+yes,3,yes,185,56,2,yes,no,sometimes,yes,no,68,female,episodic,never,yes,yes,yes,yes,yes,no,yes,yes
+yes,1,yes,172,52,1,yes,yes,frequently,yes,no,77,female,episodic,never,yes,yes,no,yes,no,no,yes,yes
+yes,3,yes,164,91,3,yes,no,sometimes,yes,no,72,male,acute stress,sometimes,yes,yes,no,yes,yes,yes,yes,yes
+yes,1,yes,146,52,4,yes,no,frequently,yes,no,77,male,acute stress,sometimes,yes,yes,yes,yes,yes,no,yes,yes
+yes,4,yes,147,46,2,no,no,sometimes,yes,no,74,male,acute stress,sometimes,yes,yes,yes,yes,yes,no,yes,yes
+yes,4,yes,160,70,2,no,no,never,no,no,85,male,chronic stress,frequently,yes,yes,yes,yes,yes,yes,yes,yes
+yes,2,yes,143,60,2,yes,no,never,no,no,81,male,acute stress,never,yes,yes,yes,no,no,no,yes,yes
+no,4,yes,183,48,3,no,no,frequently,yes,no,80,male,acute stress,sometimes,yes,yes,no,yes,yes,no,yes,yes
+yes,4,yes,145,69,2,no,no,sometimes,yes,no,78,male,chronic stress,frequently,yes,yes,no,no,no,no,yes,yes
+yes,3,yes,156,82,2,yes,no,sometimes,yes,no,78,male,acute stress,sometimes,yes,yes,yes,yes,yes,no,yes,yes
+yes,2,yes,184,76,1,yes,yes,never,yes,no,78,female,chronic stress,frequently,yes,yes,yes,no,yes,no,yes,yes
+yes,3,yes,167,66,2,no,no,never,yes,no,74,male,chronic stress,never,yes,yes,no,yes,no,yes,yes,yes
+yes,2,yes,155,91,3,yes,no,sometimes,yes,no,74,male,acute stress,frequently,yes,yes,no,no,no,yes,yes,yes
+yes,3,yes,140,93,3,yes,yes,frequently,yes,no,70,female,acute stress,never,yes,yes,no,yes,no,no,yes,yes
+yes,3,yes,140,65,3,no,no,sometimes,yes,yes,82,male,acute stress,sometimes,yes,yes,yes,yes,no,no,yes,yes
+yes,2,yes,181,77,3,yes,yes,sometimes,yes,yes,79,male,acute stress,never,yes,yes,yes,no,yes,yes,yes,yes
+yes,3,yes,150,97,2,yes,no,frequently,yes,yes,75,male,episodic,frequently,yes,yes,no,yes,yes,no,yes,yes
+yes,4,yes,179,99,3,yes,no,frequently,yes,yes,68,male,chronic stress,sometimes,yes,yes,no,no,yes,no,yes,yes
+yes,3,yes,162,85,3,no,no,frequently,yes,yes,84,male,chronic stress,sometimes,yes,no,yes,no,yes,no,yes,yes
+yes,3,yes,163,61,3,yes,yes,never,yes,yes,83,female,chronic stress,sometimes,yes,yes,yes,no,no,no,yes,yes
+yes,2,yes,161,75,4,yes,yes,frequently,yes,yes,81,female,chronic stress,sometimes,yes,yes,yes,yes,no,yes,yes,yes
+yes,3,yes,180,67,3,no,no,sometimes,yes,no,82,male,chronic stress,frequently,yes,yes,yes,no,yes,no,yes,yes
+yes,3,yes,181,64,2,no,no,never,yes,no,65,male,acute stress,never,yes,yes,yes,no,yes,yes,yes,yes
+yes,2,yes,142,89,1,yes,yes,sometimes,yes,no,77,female,episodic,sometimes,yes,yes,yes,yes,yes,yes,no,yes
+no,4,yes,166,89,3,no,no,frequently,no,no,72,male,acute stress,never,no,yes,no,yes,no,yes,yes,yes
+yes,3,yes,166,86,2,no,no,never,no,no,71,male,acute stress,sometimes,no,yes,no,no,yes,no,yes,yes
+yes,3,yes,184,76,3,no,no,frequently,no,no,75,female,acute stress,frequently,yes,yes,no,no,yes,no,yes,no
+yes,3,no,142,56,2,no,yes,never,no,no,80,female,acute stress,sometimes,no,yes,no,yes,no,no,yes,yes
+no,4,no,185,72,3,no,no,never,no,no,78,female,acute stress,sometimes,no,yes,no,yes,no,no,yes,no
+yes,3,yes,168,57,3,no,no,frequently,no,no,82,male,acute stress,sometimes,yes,yes,yes,no,yes,yes,yes,yes
+yes,3,yes,162,85,3,no,yes,never,no,no,69,female,acute stress,frequently,no,yes,yes,yes,yes,no,yes,yes
+yes,4,no,144,95,2,no,no,sometimes,yes,no,65,male,chronic stress,never,no,no,yes,yes,yes,yes,yes,no
+yes,2,no,144,60,1,no,yes,never,no,no,80,female,acute stress,sometimes,yes,yes,yes,yes,no,yes,no,yes
+yes,1,yes,165,76,2,no,yes,frequently,yes,no,85,female,acute stress,frequently,no,yes,yes,no,yes,yes,yes,no
+no,4,no,189,87,3,no,yes,frequently,yes,no,83,male,chronic stress,sometimes,no,yes,no,yes,yes,no,yes,yes
+yes,2,yes,181,90,3,no,yes,sometimes,yes,no,78,female,episodic,never,no,yes,no,yes,no,no,yes,yes
+yes,5,yes,167,80,3,no,no,never,yes,no,69,female,chronic stress,frequently,no,no,no,yes,no,yes,yes,no
+yes,3,yes,181,96,2,no,yes,never,no,no,74,male,acute stress,never,no,yes,no,no,no,yes,yes,no
+no,3,yes,153,100,3,no,no,frequently,no,no,80,male,chronic stress,frequently,no,yes,yes,yes,no,yes,yes,yes
+yes,2,yes,177,88,2,no,yes,sometimes,yes,no,76,female,chronic stress,never,no,no,no,yes,no,no,no,no
+yes,5,yes,153,46,2,no,yes,never,yes,no,69,female,chronic stress,sometimes,no,yes,no,no,yes,yes,no,yes
+yes,4,no,180,91,3,no,yes,frequently,no,no,76,female,chronic stress,never,no,no,no,no,no,no,no,yes
+no,2,yes,153,45,2,no,yes,never,no,no,77,female,chronic stress,sometimes,yes,yes,no,yes,yes,no,yes,yes
+no,4,yes,144,46,3,no,yes,never,yes,no,77,female,acute stress,sometimes,no,yes,yes,yes,yes,yes,no,yes
+yes,3,yes,154,54,4,no,yes,never,no,no,73,male,acute stress,sometimes,no,no,yes,yes,yes,yes,yes,yes
+yes,4,no,167,97,1,yes,no,never,yes,no,73,male,acute stress,sometimes,no,yes,yes,yes,yes,yes,yes,yes
+no,2,yes,177,87,2,no,no,sometimes,no,no,82,male,chronic stress,never,no,yes,yes,no,yes,yes,yes,no
+yes,3,yes,172,72,3,yes,yes,never,no,no,79,male,acute stress,never,no,yes,no,no,no,no,yes,yes
+no,3,no,149,95,3,no,no,never,no,no,70,male,episodic,frequently,yes,no,no,yes,yes,no,yes,yes
+no,4,yes,171,61,3,no,yes,never,no,no,84,female,acute stress,frequently,no,yes,no,yes,no,no,yes,yes
+no,4,no,161,79,4,no,no,frequently,no,no,68,male,acute stress,never,no,no,no,no,yes,yes,no,no
+yes,4,yes,144,85,3,no,yes,never,no,no,66,female,chronic stress,frequently,no,no,yes,yes,no,yes,no,yes
+yes,4,no,189,53,3,no,no,never,no,no,79,female,acute stress,frequently,no,no,no,yes,no,no,yes,yes
+yes,3,no,170,52,2,yes,yes,never,yes,no,79,female,acute stress,frequently,no,no,no,yes,no,no,no,yes
+yes,5,yes,145,73,3,no,yes,never,yes,no,85,female,acute stress,sometimes,no,yes,yes,no,no,no,no,yes
+no,3,yes,170,78,2,no,no,frequently,yes,no,65,male,acute stress,frequently,yes,no,no,yes,no,yes,yes,yes
+yes,3,yes,180,75,2,no,yes,sometimes,no,no,75,female,chronic stress,sometimes,no,yes,yes,yes,yes,no,yes,no
+yes,4,yes,168,72,3,no,no,never,yes,no,73,male,episodic,frequently,no,yes,yes,yes,yes,no,yes,yes
+yes,4,no,173,48,3,no,yes,sometimes,no,no,73,female,chronic stress,sometimes,yes,no,yes,no,yes,yes,yes,yes
+no,1,yes,174,70,2,no,yes,frequently,yes,no,83,female,episodic,frequently,no,yes,yes,yes,yes,yes,no,yes
+no,4,yes,189,100,2,yes,yes,frequently,no,no,75,male,episodic,frequently,yes,yes,yes,no,no,no,yes,yes
+yes,1,yes,186,84,4,no,no,never,no,no,82,male,acute stress,never,no,yes,yes,no,no,yes,no,no
+yes,5,yes,152,58,3,no,no,never,yes,no,79,male,chronic stress,sometimes,yes,yes,no,yes,no,yes,yes,no
+yes,3,no,175,47,3,yes,yes,frequently,yes,no,81,male,episodic,sometimes,yes,no,no,yes,yes,no,yes,yes
+yes,3,yes,143,76,3,no,yes,never,yes,no,77,female,acute stress,sometimes,yes,yes,yes,yes,yes,yes,yes,yes
+no,3,yes,155,55,3,no,no,never,no,yes,81,male,episodic,sometimes,no,yes,yes,yes,yes,no,no,yes
+no,4,no,162,76,3,yes,no,never,yes,yes,85,female,acute stress,frequently,yes,yes,yes,yes,yes,yes,yes,yes
+no,3,yes,151,86,2,no,yes,never,yes,yes,75,female,acute stress,never,yes,yes,no,no,yes,yes,no,no
+yes,4,no,143,84,2,yes,no,never,no,yes,82,male,acute stress,sometimes,yes,no,yes,yes,no,yes,no,yes
+yes,4,yes,141,52,2,yes,no,never,yes,yes,81,female,acute stress,never,yes,yes,no,yes,no,yes,yes,yes
+no,4,yes,186,46,2,no,yes,never,yes,yes,70,male,chronic stress,frequently,yes,yes,no,yes,no,yes,yes,yes
+yes,4,yes,184,46,3,yes,yes,never,no,yes,74,female,acute stress,never,yes,yes,yes,yes,no,no,yes,yes
+no,5,no,180,84,3,no,yes,never,no,yes,85,female,acute stress,frequently,no,no,yes,yes,no,yes,yes,yes
+yes,4,yes,140,83,3,yes,no,never,yes,yes,80,male,chronic stress,frequently,yes,no,yes,yes,no,no,yes,yes
+yes,5,yes,176,89,3,yes,no,never,no,yes,71,male,acute stress,sometimes,yes,yes,no,no,no,no,yes,no
+yes,3,yes,144,62,3,no,no,never,no,yes,83,male,acute stress,sometimes,yes,no,no,yes,yes,yes,no,yes
+no,5,yes,190,91,2,no,yes,never,no,yes,76,female,acute stress,frequently,no,no,yes,yes,yes,no,no,yes
+yes,4,no,187,82,3,no,no,never,no,yes,76,female,acute stress,sometimes,no,no,no,yes,no,no,yes,yes
+no,3,no,157,71,3,no,no,never,yes,yes,65,male,acute stress,sometimes,yes,no,yes,no,yes,yes,yes,yes
+yes,3,yes,189,46,3,no,no,never,no,yes,76,male,acute stress,sometimes,yes,no,yes,no,yes,yes,yes,yes
+no,2,yes,141,68,2,no,no,never,no,yes,83,male,chronic stress,frequently,yes,no,yes,yes,no,no,no,yes
+no,2,no,142,94,3,no,yes,never,no,yes,65,male,acute stress,frequently,yes,no,yes,no,no,yes,yes,yes
+yes,5,yes,161,58,3,yes,no,never,no,no,76,female,chronic stress,never,yes,yes,yes,no,no,no,no,yes
+yes,4,no,162,62,3,yes,no,never,no,no,73,male,acute stress,never,yes,yes,no,yes,no,yes,yes,yes
+no,3,no,169,96,3,no,no,never,yes,no,80,male,episodic,sometimes,no,yes,no,no,yes,no,yes,no
+no,5,yes,168,70,4,no,yes,never,yes,no,81,male,acute stress,sometimes,yes,yes,yes,yes,no,no,yes,yes
+no,2,yes,182,60,4,no,no,sometimes,yes,no,67,male,chronic stress,frequently,no,yes,yes,yes,yes,no,yes,no
+no,3,no,155,90,3,yes,yes,never,yes,no,72,male,acute stress,never,yes,yes,yes,yes,no,no,yes,no
+yes,2,yes,178,72,4,yes,yes,sometimes,no,no,70,female,acute stress,frequently,no,yes,yes,yes,yes,no,yes,no
+no,3,yes,174,52,2,yes,yes,never,yes,no,69,male,acute stress,sometimes,no,no,yes,no,yes,no,yes,yes
+no,2,no,153,73,4,no,no,sometimes,no,no,81,male,acute stress,never,yes,yes,no,no,yes,no,yes,no
+yes,2,yes,173,57,3,no,no,never,no,no,70,male,chronic stress,frequently,yes,yes,no,yes,no,yes,yes,no
+no,3,no,149,93,2,yes,no,never,no,no,68,female,episodic,never,no,yes,no,no,yes,no,yes,no
+no,5,no,148,90,3,no,yes,never,yes,no,73,female,acute stress,sometimes,no,yes,no,yes,yes,no,yes,yes
+yes,3,yes,157,56,2,no,no,never,yes,no,70,female,chronic stress,frequently,yes,yes,no,yes,yes,yes,yes,no
+yes,5,yes,171,47,2,yes,no,never,yes,no,78,female,chronic stress,never,yes,yes,no,no,no,no,yes,no
+yes,4,yes,182,46,3,no,yes,never,yes,no,79,female,chronic stress,sometimes,yes,no,no,yes,no,yes,yes,no
+no,2,yes,175,84,2,yes,yes,never,no,no,73,female,chronic stress,frequently,yes,yes,yes,yes,yes,yes,yes,no
+yes,5,yes,161,75,2,no,no,never,no,no,81,male,episodic,frequently,yes,yes,yes,yes,no,yes,yes,no
+no,2,yes,143,66,2,yes,yes,never,yes,no,72,female,acute stress,never,yes,yes,yes,yes,yes,yes,yes,yes
+yes,1,yes,167,61,3,yes,no,never,yes,no,73,female,chronic stress,sometimes,yes,yes,yes,yes,yes,yes,yes,no
+yes,3,yes,183,72,3,yes,no,never,yes,no,82,male,chronic stress,sometimes,yes,yes,yes,no,yes,no,yes,yes
+yes,5,yes,180,56,2,yes,no,never,yes,no,79,male,acute stress,sometimes,yes,yes,no,no,no,yes,yes,no
+yes,4,yes,184,64,2,no,no,never,yes,no,68,male,acute stress,frequently,yes,yes,no,yes,yes,no,yes,no
+yes,4,yes,171,58,3,yes,yes,never,yes,yes,83,female,chronic stress,never,yes,yes,no,yes,no,yes,yes,yes
+yes,5,yes,169,90,4,yes,no,never,yes,no,74,male,chronic stress,frequently,yes,yes,yes,no,yes,yes,yes,no
+yes,5,yes,172,76,2,no,no,never,yes,no,73,male,chronic stress,sometimes,yes,yes,yes,yes,yes,yes,yes,no
+yes,4,yes,144,85,2,yes,no,never,yes,no,77,male,chronic stress,sometimes,yes,yes,no,yes,yes,yes,yes,yes
+yes,5,yes,176,100,3,yes,no,never,yes,no,72,male,acute stress,sometimes,yes,yes,yes,no,yes,no,yes,yes
+yes,5,yes,143,97,2,yes,yes,never,yes,no,81,female,chronic stress,frequently,yes,yes,yes,yes,yes,no,yes,yes
+yes,4,yes,155,91,2,yes,no,never,yes,no,78,male,chronic stress,never,yes,yes,no,no,yes,no,yes,yes
+yes,5,yes,167,47,4,no,yes,never,no,no,74,female,acute stress,frequently,yes,yes,no,yes,no,no,yes,yes
+yes,5,yes,176,51,4,no,no,never,yes,yes,69,male,acute stress,sometimes,yes,yes,yes,no,no,no,yes,yes
+yes,4,yes,156,77,4,no,no,never,yes,yes,67,male,acute stress,sometimes,yes,yes,yes,yes,yes,yes,yes,yes
+yes,5,yes,188,70,4,yes,yes,never,yes,yes,71,female,chronic stress,never,yes,yes,no,yes,yes,no,yes,yes
+yes,5,yes,185,72,4,yes,yes,never,yes,yes,67,female,chronic stress,never,yes,yes,no,yes,yes,no,yes,yes
+no,3,yes,144,56,3,no,no,never,yes,yes,73,female,acute stress,sometimes,yes,no,no,no,yes,no,yes,yes
+yes,5,yes,176,58,2,no,no,never,no,yes,75,male,acute stress,frequently,yes,yes,no,yes,no,yes,no,no
+no,4,yes,163,78,2,no,yes,never,no,yes,72,male,episodic,frequently,yes,no,yes,no,no,yes,no,yes
+no,2,no,187,60,3,no,no,never,no,yes,80,female,chronic stress,sometimes,yes,no,no,no,yes,no,no,yes
+no,4,yes,140,74,3,yes,yes,never,no,yes,66,female,acute stress,frequently,yes,no,no,no,yes,yes,no,no
+no,5,no,146,64,2,no,no,never,no,yes,80,male,acute stress,frequently,yes,no,no,yes,yes,no,no,yes
+no,5,no,146,64,2,no,yes,never,no,yes,70,female,acute stress,sometimes,yes,no,no,yes,no,yes,no,no
+no,2,no,180,99,3,no,yes,never,no,yes,72,female,chronic stress,sometimes,yes,no,no,yes,yes,no,no,yes
+no,1,yes,168,86,2,no,yes,never,no,yes,79,female,acute stress,frequently,yes,no,no,no,no,no,no,yes
+no,2,yes,188,72,2,no,no,never,no,yes,78,male,acute stress,frequently,yes,no,yes,yes,no,no,no,yes
+yes,5,yes,183,50,2,no,yes,never,no,yes,77,female,acute stress,frequently,yes,no,no,no,yes,no,no,no
+no,5,no,185,79,2,no,no,never,yes,yes,66,male,episodic,sometimes,yes,no,no,yes,no,no,no,yes
+no,2,no,160,48,3,no,no,never,no,yes,80,male,acute stress,sometimes,yes,no,no,yes,no,yes,no,no
+yes,1,no,174,92,2,no,yes,never,no,no,78,female,acute stress,frequently,no,yes,no,yes,yes,no,yes,yes
+no,2,no,183,62,2,no,yes,never,no,no,82,male,acute stress,frequently,no,no,yes,yes,no,no,yes,no
+yes,3,no,185,79,3,no,no,never,no,no,85,male,chronic stress,sometimes,no,no,yes,no,no,no,yes,no
+no,3,no,154,99,3,no,yes,sometimes,no,no,80,female,acute stress,sometimes,no,no,no,no,no,no,yes,no
+no,2,no,149,91,3,no,no,never,no,no,78,male,acute stress,never,no,yes,no,no,no,no,no,no
+no,3,yes,157,46,3,no,no,never,yes,no,75,female,acute stress,sometimes,yes,yes,no,yes,no,no,yes,no
+no,2,yes,177,66,2,no,yes,never,yes,no,73,female,acute stress,sometimes,yes,yes,yes,yes,no,no,yes,no
+yes,3,yes,150,100,4,no,no,never,yes,no,76,male,episodic,sometimes,yes,yes,no,no,yes,yes,yes,no
+yes,5,no,166,54,2,yes,no,never,yes,no,67,female,chronic stress,never,yes,yes,no,no,no,yes,yes,yes
+yes,5,yes,161,70,2,no,yes,sometimes,yes,no,78,female,chronic stress,sometimes,yes,yes,yes,yes,no,yes,no,no
+no,4,yes,151,66,3,no,no,never,no,no,70,female,acute stress,sometimes,no,yes,no,yes,yes,no,yes,no
+no,4,no,185,65,2,no,no,sometimes,no,no,65,female,chronic stress,frequently,no,no,no,no,yes,yes,yes,no
+no,5,yes,164,59,3,no,no,never,no,no,73,male,chronic stress,frequently,no,yes,yes,yes,no,no,yes,no
+no,4,no,161,63,2,no,no,sometimes,no,no,82,female,chronic stress,sometimes,no,no,no,no,no,no,yes,no
+no,3,yes,155,56,3,no,no,never,no,no,65,female,acute stress,frequently,no,yes,no,no,yes,no,yes,yes
+no,3,yes,148,90,2,no,no,frequently,yes,no,76,female,acute stress,never,no,yes,no,yes,yes,yes,yes,yes
+yes,4,no,188,90,3,no,no,sometimes,no,no,78,female,acute stress,frequently,yes,yes,yes,no,no,yes,yes,yes
+yes,4,no,143,60,2,no,yes,sometimes,yes,no,82,female,acute stress,sometimes,yes,no,no,yes,yes,no,yes,yes
+yes,5,no,164,78,2,no,no,sometimes,no,no,78,female,acute stress,sometimes,no,no,no,no,yes,yes,no,yes
+no,4,no,165,54,3,no,no,never,no,no,82,female,chronic stress,sometimes,yes,no,yes,yes,yes,no,yes,yes
+yes,3,yes,140,45,2,no,no,sometimes,yes,no,74,female,chronic stress,never,yes,yes,no,no,yes,yes,yes,yes
+no,4,yes,190,81,3,no,no,never,no,no,68,female,acute stress,sometimes,no,no,no,yes,yes,no,no,no
+yes,3,yes,144,77,3,no,no,never,yes,no,79,female,chronic stress,sometimes,yes,yes,no,yes,no,no,yes,no
+no,3,yes,174,54,3,no,no,never,no,no,75,female,acute stress,sometimes,no,no,yes,yes,yes,no,no,no
+no,3,no,176,49,3,no,no,never,no,no,75,male,chronic stress,never,no,no,no,no,no,yes,no,no
+no,2,yes,178,78,2,no,no,never,no,no,66,female,chronic stress,sometimes,no,yes,no,yes,yes,yes,yes,no
+no,3,yes,171,72,3,yes,yes,never,no,no,67,female,chronic stress,sometimes,no,no,no,no,yes,yes,no,yes
+yes,5,no,156,86,2,no,no,never,yes,no,76,female,episodic,frequently,yes,no,yes,no,no,yes,yes,yes
+no,3,no,151,78,3,no,no,sometimes,no,no,67,female,chronic stress,sometimes,no,yes,no,no,no,no,yes,no
+no,3,no,153,95,2,no,no,sometimes,no,no,71,female,chronic stress,sometimes,no,no,no,no,yes,no,no,no
+yes,4,yes,160,79,2,no,no,never,no,no,75,female,chronic stress,sometimes,yes,yes,no,no,yes,yes,yes,yes
+no,3,no,149,98,3,no,no,never,no,no,76,female,acute stress,sometimes,no,no,yes,yes,yes,yes,no,no
+no,5,no,178,93,3,no,no,frequently,no,no,70,male,chronic stress,sometimes,no,no,no,no,no,yes,no,no
+no,4,no,161,78,4,no,no,sometimes,no,no,82,female,acute stress,frequently,no,yes,yes,yes,yes,no,no,yes
+no,3,no,159,56,4,no,no,never,no,no,69,male,acute stress,sometimes,no,no,yes,no,yes,yes,no,no
+no,2,yes,171,54,3,no,no,sometimes,no,no,78,female,chronic stress,sometimes,no,yes,no,yes,yes,no,yes,no
+yes,3,yes,179,74,2,no,no,frequently,yes,no,83,male,episodic,sometimes,no,yes,no,no,yes,yes,no,no
+no,3,yes,160,81,2,no,no,frequently,no,no,68,female,acute stress,never,no,yes,no,no,yes,yes,yes,no
+no,3,yes,176,96,3,no,no,sometimes,no,no,79,female,episodic,frequently,no,yes,yes,yes,no,yes,no,no
+yes,1,yes,172,70,3,no,yes,sometimes,no,no,77,female,chronic stress,sometimes,yes,no,yes,yes,no,no,no,yes
+no,3,no,155,57,3,no,no,frequently,no,no,71,female,acute stress,sometimes,no,yes,yes,yes,no,no,yes,no
+yes,4,no,160,56,4,no,no,never,no,no,72,female,chronic stress,never,no,no,yes,yes,yes,no,yes,no
+yes,1,yes,145,86,4,no,yes,never,no,no,68,female,acute stress,frequently,no,yes,no,no,no,yes,no,no
+no,5,no,152,88,3,no,no,frequently,no,no,77,female,chronic stress,never,yes,yes,no,yes,yes,no,yes,yes
+no,4,yes,143,96,4,no,yes,frequently,no,no,68,female,chronic stress,never,no,yes,no,no,no,yes,no,no
+yes,3,yes,176,79,2,yes,yes,never,no,no,83,female,acute stress,sometimes,no,no,no,yes,yes,yes,yes,no
+no,5,yes,185,72,3,no,no,sometimes,no,no,67,male,chronic stress,sometimes,no,yes,no,no,yes,no,no,no
+yes,3,yes,165,45,4,no,yes,sometimes,yes,no,75,female,episodic,sometimes,no,no,yes,no,no,no,yes,no
+no,4,yes,184,51,3,yes,yes,sometimes,yes,no,80,female,acute stress,sometimes,yes,yes,no,yes,yes,no,yes,no
+no,4,no,154,51,4,no,no,sometimes,no,no,65,female,chronic stress,sometimes,yes,yes,no,no,no,yes,yes,no
+no,5,yes,183,45,3,no,no,sometimes,no,no,73,female,chronic stress,frequently,no,yes,no,yes,no,yes,no,no
+yes,4,no,167,80,4,no,no,frequently,no,no,85,male,chronic stress,frequently,no,no,yes,no,yes,yes,yes,no
+no,4,no,167,62,3,no,no,never,no,no,83,female,chronic stress,frequently,no,no,no,no,yes,no,no,no
+no,3,no,186,66,3,no,no,never,no,yes,80,female,chronic stress,never,no,no,no,yes,yes,no,no,no
+no,4,no,175,82,3,no,no,never,no,no,68,male,acute stress,sometimes,yes,no,yes,no,no,no,yes,no
+no,3,yes,147,66,2,no,no,frequently,no,no,75,female,chronic stress,never,no,yes,yes,yes,no,yes,no,no
+no,2,no,168,58,3,no,no,sometimes,no,no,66,female,acute stress,sometimes,no,no,no,no,yes,yes,no,no
+no,4,no,179,73,4,no,no,frequently,no,no,75,female,chronic stress,sometimes,no,no,no,no,yes,yes,no,no
+no,4,yes,176,72,3,no,no,never,no,no,75,female,acute stress,frequently,no,yes,no,no,yes,no,no,no
+no,3,no,161,89,3,no,yes,never,no,no,79,female,chronic stress,frequently,no,no,yes,no,yes,no,no,no
+no,3,no,183,82,3,no,no,frequently,no,no,73,female,chronic stress,frequently,no,no,yes,no,no,yes,no,no
+no,3,no,156,49,2,no,no,sometimes,no,no,82,female,acute stress,never,yes,yes,yes,no,no,yes,no,no
+no,3,yes,150,52,2,no,no,sometimes,no,no,82,female,chronic stress,never,no,yes,yes,no,yes,no,no,no
+no,1,no,144,84,1,no,no,frequently,no,no,71,female,chronic stress,never,no,no,no,no,yes,no,no,no
+no,3,yes,171,59,3,no,no,sometimes,no,no,72,female,acute stress,sometimes,no,yes,no,no,no,no,no,no
+no,1,yes,163,69,4,no,yes,frequently,yes,no,72,male,episodic,sometimes,no,yes,yes,yes,no,no,no,no
+yes,4,yes,175,94,2,no,yes,sometimes,no,no,68,male,acute stress,sometimes,yes,no,yes,yes,no,yes,yes,no
+no,4,yes,184,52,2,no,no,never,yes,no,85,female,chronic stress,frequently,yes,no,yes,no,yes,yes,yes,no
+yes,2,yes,183,61,2,no,yes,never,no,no,82,female,acute stress,never,yes,no,yes,no,yes,no,yes,no
+yes,4,yes,170,88,3,yes,yes,frequently,no,no,73,female,acute stress,sometimes,yes,no,no,no,no,no,yes,yes
+no,4,yes,142,99,2,yes,yes,sometimes,no,no,73,female,chronic stress,frequently,yes,no,no,yes,yes,no,yes,yes
+yes,3,yes,169,79,2,no,no,sometimes,yes,no,72,male,chronic stress,sometimes,yes,yes,yes,yes,yes,no,no,yes
+no,2,yes,161,65,1,no,no,never,no,no,77,female,acute stress,frequently,no,no,yes,no,no,yes,yes,yes
+yes,3,no,150,74,2,no,yes,never,no,no,82,female,chronic stress,never,no,no,no,yes,no,no,yes,no
+no,2,yes,160,87,3,no,yes,sometimes,no,no,73,female,acute stress,frequently,no,no,no,no,yes,yes,yes,no
+yes,3,yes,152,83,3,no,no,frequently,no,no,84,female,acute stress,never,no,yes,no,yes,yes,yes,yes,no
+no,3,yes,177,80,3,no,yes,sometimes,no,no,75,female,chronic stress,sometimes,no,yes,yes,no,no,no,no,yes
+no,2,yes,182,52,3,yes,yes,sometimes,yes,no,78,female,acute stress,never,yes,yes,yes,yes,no,no,no,no
+no,3,yes,163,85,2,yes,no,frequently,no,no,77,male,episodic,frequently,no,yes,no,yes,yes,no,yes,no
+no,4,yes,141,72,3,no,no,frequently,yes,no,80,male,acute stress,sometimes,no,no,no,no,no,no,no,no
+no,3,yes,182,76,3,no,yes,frequently,no,no,78,male,chronic stress,sometimes,no,no,yes,no,yes,no,no,no
+no,3,yes,183,58,3,no,yes,never,no,no,79,female,acute stress,sometimes,no,no,yes,no,no,no,no,yes
+no,2,no,189,69,4,no,no,frequently,no,no,70,male,chronic stress,sometimes,no,no,yes,yes,no,yes,no,no
+no,3,yes,161,73,3,no,yes,sometimes,yes,no,69,female,episodic,frequently,no,yes,yes,yes,yes,no,no,no
+no,3,no,185,60,2,no,no,never,no,no,85,male,acute stress,never,no,yes,yes,no,yes,no,yes,no
+yes,2,yes,167,70,1,no,no,sometimes,yes,no,79,female,chronic stress,sometimes,yes,no,yes,no,no,no,yes,no
+no,4,yes,184,65,3,no,no,frequently,no,no,69,female,acute stress,never,no,yes,no,yes,yes,yes,yes,no
+no,3,yes,156,77,2,no,no,never,no,no,84,female,acute stress,sometimes,no,no,no,no,yes,no,yes,no
+no,3,yes,159,63,3,no,no,frequently,no,no,85,female,chronic stress,frequently,no,yes,no,yes,no,no,no,no
+yes,3,yes,186,55,2,yes,yes,never,yes,no,66,male,acute stress,sometimes,yes,yes,no,no,no,no,no,yes
+yes,4,yes,170,100,3,no,yes,never,yes,no,81,female,chronic stress,sometimes,yes,yes,no,yes,no,yes,no,yes
+yes,3,yes,141,52,3,no,yes,frequently,no,no,78,male,acute stress,sometimes,yes,yes,yes,yes,no,no,no,no
+yes,2,yes,165,61,4,no,no,sometimes,no,no,71,female,acute stress,frequently,yes,no,yes,no,yes,yes,yes,no
+no,3,yes,181,51,3,no,no,never,no,no,71,female,chronic stress,never,no,yes,yes,yes,yes,yes,no,no
+yes,2,yes,180,99,4,no,no,sometimes,yes,no,76,male,episodic,frequently,no,no,yes,yes,yes,no,no,no
+no,3,no,161,76,2,no,yes,never,no,no,66,male,chronic stress,sometimes,no,no,yes,no,no,no,no,no
+yes,2,no,175,58,4,no,no,sometimes,no,no,65,female,chronic stress,never,no,yes,no,yes,yes,yes,yes,no
+no,2,yes,161,58,3,no,yes,never,no,no,80,male,chronic stress,frequently,no,no,no,yes,no,no,no,no
+no,3,no,178,68,2,no,no,never,no,no,82,female,chronic stress,never,no,no,no,no,no,yes,no,no
+yes,5,yes,145,84,3,yes,no,never,no,no,82,female,chronic stress,sometimes,yes,no,no,no,no,yes,no,yes
+yes,3,yes,161,94,2,no,yes,never,no,no,76,male,chronic stress,frequently,no,yes,no,no,no,yes,no,no
+yes,5,no,144,52,2,yes,no,never,no,no,73,male,chronic stress,never,yes,no,no,no,no,no,no,yes
+no,4,no,186,83,3,no,no,never,no,yes,67,female,episodic,sometimes,no,no,no,no,yes,yes,no,no
+yes,2,yes,175,95,2,no,no,never,no,yes,68,male,chronic stress,frequently,yes,yes,yes,yes,no,no,yes,no
+yes,5,yes,148,55,2,no,no,never,yes,yes,79,male,acute stress,frequently,yes,yes,yes,yes,yes,no,yes,no
+yes,2,yes,189,85,2,yes,no,never,yes,yes,69,male,chronic stress,never,yes,yes,yes,no,yes,yes,yes,no
+yes,1,yes,172,100,3,yes,no,never,yes,yes,65,male,chronic stress,sometimes,yes,yes,yes,yes,yes,no,yes,yes
+yes,3,yes,172,48,3,yes,yes,never,yes,yes,68,male,chronic stress,sometimes,yes,yes,yes,no,no,no,yes,yes
+yes,5,yes,161,51,2,yes,yes,never,yes,yes,68,male,chronic stress,sometimes,yes,yes,no,yes,yes,yes,yes,yes
+yes,4,yes,178,62,2,yes,no,never,yes,yes,85,male,acute stress,frequently,yes,yes,no,no,no,no,yes,yes
+yes,4,yes,190,91,3,yes,no,never,yes,yes,85,male,acute stress,never,yes,yes,no,yes,yes,no,yes,yes
+yes,5,yes,177,59,4,yes,yes,never,yes,yes,69,male,acute stress,frequently,yes,yes,yes,no,yes,no,yes,yes
+yes,5,yes,147,76,2,yes,no,never,yes,yes,83,male,chronic stress,sometimes,yes,yes,yes,no,no,no,yes,yes
+yes,4,yes,176,55,2,yes,no,never,yes,yes,80,female,episodic,sometimes,yes,yes,no,no,no,no,yes,yes
+yes,5,yes,182,48,3,yes,yes,never,yes,yes,75,female,acute stress,sometimes,yes,yes,yes,no,yes,yes,yes,yes
+yes,5,yes,155,62,2,yes,yes,never,yes,yes,70,male,acute stress,frequently,yes,yes,yes,yes,no,no,yes,yes
+yes,4,yes,187,83,2,yes,no,never,yes,yes,76,male,chronic stress,never,yes,yes,no,yes,no,yes,yes,yes
+yes,5,yes,162,45,4,yes,yes,never,yes,yes,84,female,acute stress,frequently,yes,yes,no,no,no,no,yes,yes
+yes,5,yes,145,78,4,yes,yes,never,yes,yes,78,female,acute stress,sometimes,yes,yes,yes,yes,yes,no,yes,yes
+yes,4,yes,168,50,4,yes,yes,never,yes,yes,65,female,acute stress,sometimes,yes,yes,yes,yes,no,yes,yes,yes
+yes,5,yes,171,67,4,yes,yes,never,yes,yes,85,female,episodic,never,yes,yes,no,no,no,no,yes,yes
+yes,5,yes,150,92,4,yes,yes,never,yes,yes,80,female,episodic,never,yes,yes,no,no,yes,no,yes,yes
+yes,3,yes,187,64,3,yes,no,never,yes,yes,76,male,episodic,sometimes,yes,yes,no,no,yes,yes,yes,yes
+yes,5,yes,178,49,2,no,no,never,yes,yes,80,male,acute stress,frequently,yes,yes,no,no,yes,no,yes,yes
+yes,4,yes,167,69,2,yes,no,never,yes,yes,73,male,episodic,frequently,yes,yes,yes,no,yes,no,yes,yes
+yes,2,yes,177,97,3,yes,no,never,yes,yes,72,male,episodic,sometimes,yes,yes,no,no,no,no,yes,yes
+yes,4,yes,147,79,3,yes,yes,never,yes,yes,76,male,acute stress,frequently,yes,yes,no,no,no,yes,yes,yes
+yes,5,yes,185,68,2,yes,yes,never,yes,yes,81,female,acute stress,frequently,yes,yes,no,no,no,yes,yes,yes
+yes,5,no,153,47,2,yes,no,never,yes,yes,70,female,acute stress,sometimes,yes,yes,no,yes,yes,no,yes,no
+yes,2,yes,188,64,3,no,no,never,no,yes,77,male,acute stress,sometimes,yes,yes,no,yes,no,yes,yes,no
+yes,1,yes,162,72,2,no,no,never,no,yes,71,female,acute stress,frequently,yes,yes,no,yes,no,yes,yes,yes
+yes,2,yes,187,66,2,yes,yes,never,yes,yes,65,female,chronic stress,frequently,yes,yes,yes,no,no,no,no,yes
+yes,5,no,163,90,2,no,no,never,no,yes,66,female,acute stress,frequently,yes,no,no,yes,no,yes,yes,yes
+yes,5,yes,179,97,2,no,no,never,yes,no,85,female,acute stress,sometimes,yes,yes,no,yes,no,no,yes,no
+yes,2,yes,171,82,3,yes,yes,never,yes,yes,79,male,episodic,sometimes,yes,yes,no,yes,no,yes,yes,yes
+yes,1,no,159,78,2,yes,no,never,yes,yes,71,male,acute stress,frequently,yes,yes,no,no,no,no,no,yes
+yes,2,yes,169,94,2,no,no,never,yes,yes,85,male,episodic,frequently,yes,yes,yes,no,no,no,yes,yes
+yes,3,yes,159,96,3,no,no,never,yes,yes,70,male,acute stress,sometimes,yes,yes,yes,no,no,yes,yes,yes
+yes,3,yes,174,67,3,yes,no,sometimes,yes,yes,77,female,acute stress,sometimes,yes,yes,no,yes,no,yes,yes,yes
+yes,2,no,156,96,3,yes,no,never,yes,yes,66,female,acute stress,never,yes,yes,no,yes,yes,no,yes,yes
+yes,3,yes,140,81,3,no,no,never,yes,yes,84,female,acute stress,sometimes,yes,yes,no,yes,no,yes,yes,yes
+yes,2,yes,169,96,2,yes,no,never,yes,yes,71,female,chronic stress,sometimes,yes,yes,yes,yes,yes,yes,yes,yes
+yes,3,yes,184,74,4,yes,yes,never,yes,yes,67,male,episodic,sometimes,yes,yes,no,no,yes,yes,yes,yes
+yes,5,yes,158,81,2,yes,yes,never,yes,yes,67,female,episodic,never,yes,yes,no,no,yes,no,yes,yes
+yes,5,yes,149,63,2,yes,yes,sometimes,yes,yes,67,female,episodic,sometimes,yes,yes,yes,yes,no,yes,yes,yes
+yes,4,yes,155,82,3,yes,yes,never,yes,yes,81,male,acute stress,sometimes,yes,yes,no,yes,no,no,yes,yes
+yes,4,yes,174,61,2,yes,yes,sometimes,yes,yes,66,male,episodic,frequently,yes,yes,no,no,no,no,yes,yes
+yes,5,yes,175,45,3,yes,yes,never,yes,yes,81,female,acute stress,frequently,yes,yes,yes,no,no,no,yes,yes
+yes,4,yes,154,84,2,yes,yes,sometimes,yes,yes,81,male,episodic,sometimes,yes,yes,no,yes,no,yes,yes,yes
+yes,3,yes,142,93,3,yes,yes,never,yes,yes,78,male,episodic,frequently,yes,yes,no,no,yes,yes,yes,no
+yes,3,yes,156,58,2,yes,yes,frequently,yes,no,68,female,acute stress,never,yes,yes,no,yes,no,no,yes,yes
+yes,4,yes,150,96,3,no,no,sometimes,yes,no,81,male,chronic stress,frequently,yes,yes,yes,no,no,yes,yes,yes
+yes,4,yes,144,96,2,no,no,sometimes,yes,no,74,female,episodic,sometimes,yes,yes,no,yes,no,yes,yes,no
+yes,5,yes,157,80,2,yes,no,never,yes,no,69,female,episodic,sometimes,yes,yes,no,yes,no,yes,yes,yes
+yes,4,yes,181,97,3,yes,yes,never,yes,no,71,male,acute stress,sometimes,yes,yes,yes,no,yes,no,yes,yes
+yes,3,yes,165,54,2,yes,yes,sometimes,yes,no,75,female,episodic,never,yes,yes,no,yes,no,yes,yes,yes
+yes,4,yes,179,80,3,yes,yes,never,yes,no,81,male,acute stress,sometimes,yes,yes,no,yes,yes,no,yes,yes
+yes,3,yes,148,45,3,yes,no,never,yes,no,77,female,acute stress,sometimes,yes,yes,no,yes,yes,no,yes,yes
+yes,3,yes,150,100,3,yes,yes,never,yes,no,80,female,acute stress,sometimes,yes,yes,yes,yes,no,no,yes,yes
+yes,3,yes,161,88,3,no,no,never,yes,no,80,female,episodic,never,yes,yes,no,yes,no,no,yes,yes
+yes,2,yes,187,73,2,yes,no,never,yes,no,84,female,episodic,never,yes,yes,no,no,no,no,yes,yes
+yes,3,yes,173,52,3,yes,yes,never,yes,no,84,female,episodic,sometimes,yes,yes,no,no,yes,yes,yes,yes
+yes,5,yes,160,93,2,yes,no,never,yes,no,83,female,acute stress,frequently,yes,yes,yes,yes,no,yes,yes,yes
+yes,3,yes,180,60,3,yes,no,sometimes,yes,no,80,female,acute stress,sometimes,yes,yes,no,yes,yes,yes,yes,yes
+yes,3,yes,189,69,2,no,no,sometimes,yes,no,68,female,acute stress,sometimes,yes,yes,no,no,yes,no,yes,yes
+yes,4,yes,151,61,2,no,no,never,no,no,78,female,chronic stress,sometimes,yes,yes,no,no,yes,yes,yes,yes
+yes,3,yes,184,64,3,yes,no,never,no,no,80,female,acute stress,sometimes,yes,yes,yes,yes,no,no,yes,yes
+no,5,yes,184,82,3,no,no,frequently,yes,no,82,female,acute stress,sometimes,yes,yes,no,yes,no,no,yes,yes
+yes,4,yes,158,84,4,no,no,sometimes,yes,no,80,female,chronic stress,frequently,yes,yes,yes,yes,yes,no,yes,yes
+yes,3,yes,145,72,4,yes,no,never,yes,no,65,female,acute stress,sometimes,yes,yes,yes,no,no,no,yes,yes
+yes,2,yes,149,71,3,yes,yes,never,yes,no,85,female,chronic stress,sometimes,yes,yes,no,no,yes,no,yes,yes
+yes,3,yes,183,79,2,no,no,frequently,yes,no,78,male,chronic stress,sometimes,yes,yes,no,yes,no,yes,yes,yes
+yes,3,yes,173,98,2,yes,no,frequently,yes,no,78,female,acute stress,never,yes,yes,no,no,yes,yes,yes,yes
+yes,3,yes,159,72,3,yes,yes,sometimes,yes,no,71,female,acute stress,frequently,yes,yes,yes,yes,yes,yes,yes,yes
+yes,1,yes,146,85,3,no,no,sometimes,yes,no,72,female,acute stress,sometimes,yes,yes,yes,no,yes,yes,yes,yes
+yes,3,yes,181,51,3,yes,yes,frequently,yes,no,77,female,acute stress,sometimes,yes,yes,yes,yes,yes,yes,yes,yes
+yes,4,yes,166,82,4,yes,no,never,yes,no,81,female,episodic,never,yes,yes,yes,yes,no,yes,yes,yes
+yes,1,yes,178,95,4,yes,no,never,yes,no,83,male,chronic stress,frequently,yes,yes,no,yes,no,no,yes,yes
+yes,5,yes,150,70,3,no,no,frequently,yes,no,75,female,chronic stress,never,yes,no,no,no,no,no,yes,yes
+yes,4,yes,183,47,4,yes,yes,frequently,yes,no,69,female,chronic stress,never,yes,yes,no,no,no,no,yes,yes
+yes,3,yes,152,45,2,yes,yes,never,yes,no,74,female,chronic stress,sometimes,yes,yes,no,yes,no,yes,yes,yes
+yes,5,yes,176,50,3,no,no,sometimes,yes,no,83,female,chronic stress,sometimes,yes,yes,no,yes,yes,no,yes,yes
+yes,3,yes,143,72,4,no,no,sometimes,yes,no,82,female,acute stress,sometimes,yes,yes,yes,no,no,no,yes,yes
+yes,4,yes,152,51,3,yes,yes,sometimes,yes,no,75,female,episodic,sometimes,yes,yes,no,no,yes,no,no,yes
+no,4,yes,164,50,4,no,no,sometimes,no,no,84,female,acute stress,sometimes,no,yes,no,no,yes,no,yes,yes
+yes,5,yes,164,97,3,no,no,sometimes,no,no,72,female,acute stress,frequently,no,yes,no,yes,yes,no,yes,yes
+yes,4,yes,155,90,4,no,no,frequently,no,no,76,female,acute stress,frequently,yes,yes,yes,yes,yes,no,yes,no
+yes,4,no,150,100,3,no,yes,never,no,no,80,female,acute stress,frequently,no,yes,no,yes,no,yes,yes,yes
+no,3,no,177,90,3,no,no,never,no,no,83,female,acute stress,never,no,yes,no,no,no,yes,yes,no
+yes,4,yes,155,45,3,no,no,never,no,no,73,female,acute stress,sometimes,yes,yes,yes,no,yes,yes,yes,yes
+yes,3,yes,189,82,2,no,yes,frequently,no,no,83,male,acute stress,never,no,yes,yes,yes,yes,no,yes,yes
+yes,2,no,175,67,3,no,no,sometimes,yes,no,78,female,chronic stress,sometimes,no,no,no,yes,no,yes,yes,no
+yes,4,no,143,47,4,no,yes,frequently,no,no,84,female,acute stress,sometimes,yes,yes,no,yes,no,no,no,yes
+yes,4,yes,156,84,3,no,yes,never,yes,no,81,female,acute stress,frequently,no,yes,no,yes,no,no,yes,no
+no,3,no,167,71,3,no,yes,never,yes,no,72,female,chronic stress,frequently,no,yes,yes,yes,no,no,yes,yes
+yes,3,yes,175,65,3,no,yes,frequently,yes,yes,76,female,episodic,frequently,no,yes,yes,yes,no,yes,yes,yes
+yes,3,yes,166,56,2,no,no,sometimes,yes,no,74,female,chronic stress,never,no,no,yes,yes,yes,yes,yes,no
+yes,3,yes,164,54,2,no,yes,sometimes,no,no,70,female,acute stress,never,no,yes,yes,no,yes,no,yes,no
+no,1,yes,143,58,1,no,no,frequently,no,no,78,male,chronic stress,never,no,yes,no,no,yes,no,yes,yes
+yes,3,yes,146,83,3,no,yes,sometimes,yes,no,80,male,chronic stress,sometimes,no,no,no,yes,yes,no,no,no
+yes,1,yes,153,51,4,no,yes,frequently,yes,no,72,female,chronic stress,sometimes,no,yes,yes,no,yes,no,no,yes
+yes,4,no,159,48,2,no,yes,sometimes,no,no,68,female,chronic stress,sometimes,no,no,yes,no,yes,yes,no,yes
+no,4,yes,150,68,2,no,yes,never,no,no,82,female,chronic stress,frequently,yes,yes,yes,yes,yes,yes,yes,yes
+no,2,yes,174,51,2,no,yes,never,yes,no,72,female,acute stress,never,no,yes,yes,no,no,yes,no,yes
+yes,4,yes,189,89,3,no,yes,frequently,no,no,83,female,acute stress,sometimes,no,no,no,no,no,no,yes,yes
+yes,4,no,160,57,2,yes,no,sometimes,yes,no,66,male,acute stress,frequently,no,yes,no,no,no,no,yes,yes
+no,3,yes,161,100,2,no,no,sometimes,no,no,67,female,chronic stress,sometimes,no,yes,yes,no,no,no,yes,no
+yes,2,yes,150,89,1,yes,yes,never,no,no,84,female,acute stress,frequently,no,yes,yes,no,no,no,yes,yes
+no,3,no,154,65,2,no,no,never,no,no,84,female,episodic,never,yes,no,no,yes,no,no,yes,yes
+no,2,yes,140,65,3,no,yes,sometimes,no,no,72,female,acute stress,frequently,no,yes,no,yes,yes,yes,yes,yes
+no,3,no,173,89,3,no,no,frequently,no,no,67,female,acute stress,never,no,no,no,no,yes,yes,no,no
+yes,3,yes,168,81,3,no,yes,sometimes,no,yes,74,female,chronic stress,sometimes,no,no,yes,no,yes,yes,no,yes
+yes,2,no,185,69,3,no,no,sometimes,no,no,83,female,acute stress,never,no,no,yes,yes,yes,no,yes,yes
+yes,3,no,174,83,2,yes,yes,frequently,yes,no,68,female,acute stress,frequently,no,no,no,no,yes,yes,no,yes
+yes,4,yes,182,70,3,no,yes,frequently,yes,no,77,female,acute stress,sometimes,no,yes,no,yes,yes,no,no,yes
+no,3,yes,164,90,3,no,no,frequently,yes,no,72,female,acute stress,sometimes,yes,no,yes,no,yes,yes,yes,yes
+yes,3,yes,172,98,3,no,yes,never,no,no,71,female,chronic stress,sometimes,no,yes,yes,yes,yes,no,yes,no
+yes,2,yes,179,99,4,no,no,frequently,yes,no,73,female,episodic,sometimes,no,yes,yes,yes,no,yes,yes,yes
+yes,3,no,171,76,3,no,yes,sometimes,no,yes,68,female,chronic stress,frequently,yes,no,yes,yes,no,yes,yes,yes
+no,3,yes,148,79,2,no,yes,never,yes,yes,71,female,episodic,never,no,yes,yes,yes,no,yes,no,yes
+no,2,yes,189,89,1,yes,yes,sometimes,no,yes,80,female,episodic,sometimes,yes,yes,yes,no,yes,yes,yes,yes
+yes,4,yes,161,51,3,no,no,frequently,no,no,69,female,acute stress,never,no,yes,no,yes,no,yes,no,no
+yes,3,yes,181,69,2,no,no,never,yes,no,71,female,chronic stress,sometimes,yes,yes,no,yes,yes,yes,yes,no
+yes,3,no,165,64,3,yes,yes,frequently,yes,no,66,female,episodic,frequently,yes,no,no,no,no,yes,yes,yes
+yes,3,yes,179,66,2,no,yes,never,yes,no,72,male,acute stress,sometimes,yes,yes,no,no,no,no,yes,yes
+no,4,yes,182,63,3,no,no,never,no,no,71,male,episodic,sometimes,no,yes,no,yes,no,no,no,yes
+no,3,no,164,71,3,yes,no,frequently,yes,no,78,male,acute stress,sometimes,yes,yes,yes,yes,yes,no,yes,yes
+no,3,yes,158,99,3,no,yes,frequently,yes,no,85,male,acute stress,sometimes,yes,yes,yes,yes,no,yes,no,no
+yes,4,no,141,86,4,yes,no,never,no,no,68,female,acute stress,never,yes,no,yes,yes,yes,yes,no,yes
+yes,1,yes,149,90,4,yes,no,never,yes,no,81,female,acute stress,frequently,yes,yes,no,no,yes,no,yes,yes
+no,5,yes,144,67,3,no,yes,frequently,yes,yes,82,female,chronic stress,never,yes,yes,no,yes,yes,no,yes,yes
+yes,4,yes,146,67,4,yes,yes,frequently,no,no,83,male,acute stress,never,yes,yes,no,yes,yes,yes,yes,yes
+no,3,no,176,80,2,no,yes,never,no,yes,74,male,acute stress,sometimes,no,no,no,yes,no,no,yes,yes
+yes,5,yes,167,67,3,yes,no,sometimes,yes,no,81,female,chronic stress,sometimes,yes,no,no,no,yes,no,yes,yes
+yes,3,yes,181,90,4,yes,no,sometimes,no,yes,78,male,acute stress,sometimes,yes,yes,yes,yes,yes,no,yes,no
+yes,4,yes,170,54,3,no,no,sometimes,no,yes,72,female,acute stress,sometimes,yes,no,no,yes,yes,no,no,yes
+no,4,yes,188,67,4,no,yes,sometimes,no,yes,77,male,acute stress,sometimes,no,no,no,no,yes,yes,no,yes
+yes,5,no,172,67,3,no,no,sometimes,no,no,66,female,acute stress,frequently,no,no,no,no,no,yes,yes,yes
+no,4,no,184,81,4,no,no,frequently,yes,no,84,male,acute stress,frequently,yes,no,yes,no,no,no,yes,yes
+yes,4,yes,171,45,3,no,no,never,no,no,73,male,acute stress,frequently,yes,no,no,no,yes,yes,yes,yes
+no,3,yes,189,62,3,no,no,never,no,no,68,female,chronic stress,never,yes,no,no,yes,no,no,no,yes
+no,4,no,163,81,3,no,yes,never,no,no,66,male,acute stress,sometimes,yes,no,yes,yes,no,yes,yes,yes
+yes,3,yes,145,63,2,yes,no,frequently,no,no,78,female,chronic stress,never,yes,yes,yes,no,yes,yes,no,yes
+yes,2,no,181,51,3,yes,no,never,no,no,76,male,acute stress,never,yes,yes,no,yes,no,no,yes,yes
+no,3,no,166,93,3,no,no,never,yes,no,84,male,episodic,sometimes,no,yes,no,yes,yes,no,yes,no
+no,2,yes,146,86,2,no,yes,never,yes,no,66,male,acute stress,sometimes,yes,yes,yes,no,no,no,yes,yes
+no,3,yes,159,46,4,no,no,never,yes,no,79,female,chronic stress,sometimes,no,yes,no,no,yes,yes,yes,no
+no,5,no,154,50,2,yes,yes,never,yes,no,74,male,acute stress,never,yes,yes,no,no,no,yes,yes,no
+yes,5,yes,186,70,2,yes,yes,sometimes,no,no,76,male,acute stress,sometimes,no,yes,yes,yes,yes,yes,yes,no
+no,4,yes,176,59,3,yes,yes,never,yes,no,66,female,acute stress,sometimes,no,no,no,no,yes,no,yes,yes
+no,4,no,154,67,2,no,no,sometimes,no,no,69,female,acute stress,frequently,yes,yes,no,no,no,no,yes,no
+yes,5,yes,174,77,3,no,no,never,no,no,67,male,chronic stress,frequently,yes,yes,yes,no,yes,yes,yes,no
+no,4,no,175,63,2,yes,no,sometimes,no,no,68,female,episodic,sometimes,no,yes,no,yes,yes,yes,yes,no
+no,3,no,164,49,3,no,yes,never,yes,no,76,male,acute stress,frequently,no,yes,no,no,yes,yes,yes,yes
+yes,3,yes,190,55,2,no,no,frequently,yes,no,84,male,chronic stress,never,yes,yes,no,yes,no,yes,yes,no
+yes,4,yes,162,78,3,yes,no,sometimes,yes,no,67,male,chronic stress,frequently,yes,yes,yes,yes,no,yes,yes,no
+yes,4,yes,141,46,2,no,yes,sometimes,yes,no,66,female,chronic stress,sometimes,yes,no,no,yes,yes,no,yes,no
+no,5,yes,148,69,2,yes,yes,never,no,no,66,female,chronic stress,sometimes,yes,yes,no,yes,yes,yes,yes,no
+yes,4,yes,181,75,3,no,no,never,yes,no,74,female,episodic,sometimes,yes,yes,yes,no,no,yes,yes,no
+no,3,yes,157,70,2,yes,yes,sometimes,yes,no,73,female,acute stress,never,yes,yes,no,no,no,yes,yes,yes
+yes,5,yes,142,98,2,yes,no,never,yes,no,75,female,chronic stress,sometimes,yes,yes,no,no,no,no,yes,no
+yes,4,yes,150,81,3,yes,no,never,yes,no,84,female,chronic stress,sometimes,yes,yes,yes,no,yes,no,yes,yes
+yes,3,yes,164,96,2,yes,no,sometimes,yes,no,69,female,acute stress,never,yes,yes,no,no,no,yes,yes,no
+yes,4,yes,140,79,3,no,no,never,yes,no,74,male,acute stress,sometimes,yes,yes,no,yes,yes,yes,yes,no
+yes,3,yes,154,67,3,yes,yes,never,yes,no,73,female,chronic stress,sometimes,yes,yes,no,no,yes,no,yes,yes
+yes,3,yes,188,88,3,yes,no,never,yes,no,72,male,chronic stress,sometimes,yes,yes,yes,yes,yes,yes,yes,no
+yes,3,yes,179,76,3,no,no,never,yes,no,68,female,chronic stress,never,yes,yes,no,no,yes,yes,yes,no
+yes,2,yes,155,59,2,yes,no,never,yes,no,82,female,chronic stress,never,yes,yes,no,no,no,yes,yes,yes
+yes,4,yes,159,76,2,yes,no,never,yes,no,79,female,acute stress,sometimes,yes,yes,yes,no,no,no,yes,yes
+yes,4,yes,161,63,2,yes,yes,never,yes,no,82,male,chronic stress,never,yes,yes,no,no,no,yes,yes,yes
+yes,4,yes,162,69,2,yes,no,never,yes,no,67,female,chronic stress,frequently,yes,yes,no,yes,no,yes,yes,yes
+yes,4,yes,175,80,3,no,yes,never,no,no,73,female,acute stress,never,yes,yes,yes,yes,no,no,yes,yes
+yes,5,yes,144,68,3,no,no,never,yes,no,85,male,acute stress,frequently,yes,yes,yes,yes,yes,yes,yes,yes
+yes,4,yes,167,71,3,no,no,never,yes,no,80,female,acute stress,frequently,yes,yes,yes,yes,yes,no,yes,yes
+yes,5,yes,149,51,3,yes,yes,never,yes,no,84,male,chronic stress,sometimes,yes,yes,no,yes,yes,yes,yes,yes
+yes,3,yes,162,83,3,yes,yes,never,yes,no,82,male,chronic stress,sometimes,yes,yes,no,yes,no,no,yes,yes
+no,5,yes,173,95,2,no,no,never,yes,no,76,male,acute stress,sometimes,yes,no,no,no,yes,no,yes,yes
+yes,4,yes,178,79,3,no,no,never,no,no,85,female,acute stress,sometimes,yes,yes,yes,yes,no,yes,no,no
+no,3,yes,160,91,2,no,yes,sometimes,no,no,78,male,episodic,never,yes,no,no,yes,yes,no,no,yes
+no,4,no,177,96,3,no,no,never,no,no,75,male,chronic stress,sometimes,yes,no,no,yes,yes,yes,no,yes
+no,3,yes,170,83,3,yes,yes,never,no,yes,78,male,acute stress,sometimes,yes,no,no,yes,no,yes,no,no
+no,3,no,178,89,3,no,no,never,no,yes,67,female,acute stress,sometimes,yes,no,yes,yes,yes,yes,no,yes
+no,3,no,179,95,3,no,yes,never,no,yes,72,female,acute stress,never,yes,no,no,yes,no,yes,no,no
+no,2,no,177,86,2,no,yes,never,no,yes,85,male,chronic stress,sometimes,yes,no,no,yes,yes,yes,no,yes
+no,2,yes,151,56,3,no,yes,never,no,yes,66,male,acute stress,sometimes,yes,no,no,yes,no,yes,no,yes
+no,1,yes,148,53,2,no,no,never,no,yes,78,female,acute stress,frequently,yes,no,no,no,yes,no,no,yes
+yes,2,yes,175,89,2,no,yes,never,no,yes,81,male,acute stress,frequently,yes,no,yes,yes,yes,yes,no,no
+no,3,no,160,51,3,no,no,never,yes,yes,77,female,episodic,sometimes,yes,no,yes,no,yes,no,no,yes
+no,3,no,168,52,3,no,no,sometimes,no,yes,72,male,acute stress,sometimes,yes,no,no,no,yes,no,no,no
+yes,2,no,176,90,3,no,yes,never,no,yes,73,male,acute stress,never,no,yes,no,no,yes,yes,yes,yes
+no,3,no,144,94,3,no,yes,never,no,yes,85,male,acute stress,sometimes,no,no,no,yes,no,no,yes,no
+yes,2,no,179,60,2,no,no,never,no,yes,81,female,chronic stress,sometimes,no,no,yes,yes,yes,no,yes,no
+no,3,no,153,91,4,no,yes,never,no,yes,72,female,acute stress,sometimes,no,no,no,no,no,yes,yes,no
+no,5,no,155,54,2,no,no,never,no,yes,70,male,acute stress,never,no,yes,no,no,yes,yes,no,no
+yes,5,no,170,76,2,no,yes,sometimes,yes,yes,70,male,acute stress,sometimes,yes,no,yes,yes,yes,yes,yes,yes
+yes,4,no,155,93,3,no,no,never,no,yes,83,female,acute stress,sometimes,no,no,no,yes,yes,yes,no,yes
+no,4,no,156,63,2,no,no,sometimes,no,yes,77,female,chronic stress,frequently,yes,no,no,yes,yes,yes,yes,yes
+yes,5,yes,162,63,3,no,no,never,yes,yes,69,female,chronic stress,frequently,yes,yes,yes,yes,no,no,yes,yes
+no,4,yes,187,76,2,no,no,sometimes,no,yes,65,male,acute stress,sometimes,no,no,no,yes,no,yes,no,no
+yes,3,yes,179,91,3,no,no,never,yes,yes,68,female,chronic stress,frequently,yes,yes,no,no,no,no,yes,no
+no,4,yes,187,94,3,no,no,never,no,yes,80,female,acute stress,sometimes,no,no,no,yes,yes,no,no,no
+no,4,no,147,58,2,no,no,sometimes,no,yes,67,male,chronic stress,frequently,no,no,no,no,no,yes,no,no
+no,5,yes,148,95,3,no,no,never,no,yes,73,female,chronic stress,frequently,no,yes,yes,yes,no,no,yes,no
+no,4,yes,176,83,2,yes,yes,sometimes,no,yes,80,female,chronic stress,sometimes,no,no,no,no,yes,no,no,yes
+yes,3,no,149,89,3,no,no,never,yes,yes,82,male,episodic,frequently,yes,no,no,no,no,no,yes,yes
+no,3,no,140,65,2,no,no,frequently,no,yes,68,female,chronic stress,never,no,yes,no,yes,yes,no,yes,no
+no,4,no,172,74,3,no,no,sometimes,no,yes,85,male,chronic stress,frequently,no,no,yes,no,no,yes,no,no
+yes,4,yes,142,48,2,no,no,sometimes,no,yes,70,male,chronic stress,sometimes,yes,yes,no,yes,no,yes,yes,yes
+no,5,no,156,59,2,no,no,never,no,yes,74,female,acute stress,sometimes,no,no,no,yes,no,no,no,no
+no,4,no,172,85,3,no,no,never,no,yes,80,female,chronic stress,sometimes,no,no,yes,yes,yes,yes,no,no
+no,3,no,152,84,2,no,no,sometimes,no,yes,83,female,acute stress,never,no,yes,no,no,yes,yes,no,yes
+no,5,no,145,68,2,no,no,never,no,yes,73,female,acute stress,frequently,no,no,yes,yes,no,yes,no,no
+no,4,yes,151,52,3,no,no,never,no,yes,83,female,chronic stress,sometimes,no,yes,no,yes,yes,yes,yes,no
+yes,3,yes,172,69,3,no,no,never,yes,yes,72,male,episodic,sometimes,no,yes,yes,yes,no,no,no,no
+no,3,yes,145,47,3,no,no,never,no,yes,66,male,acute stress,sometimes,no,yes,yes,yes,no,yes,yes,no
+no,4,yes,170,92,3,no,no,never,no,yes,66,female,episodic,sometimes,no,yes,yes,no,yes,no,no,no
+yes,3,yes,152,77,2,no,yes,sometimes,no,yes,67,male,chronic stress,never,yes,no,no,no,yes,no,no,yes
+no,4,no,181,50,3,no,no,never,no,yes,83,male,acute stress,sometimes,no,yes,no,yes,no,yes,yes,no
+yes,3,no,142,60,3,no,no,never,no,yes,79,female,chronic stress,sometimes,no,no,no,no,no,yes,yes,no
+yes,3,yes,190,75,3,no,yes,never,no,yes,72,male,acute stress,sometimes,no,yes,yes,yes,yes,yes,no,no
+no,3,no,184,93,3,no,no,never,no,yes,70,female,chronic stress,never,yes,yes,no,no,yes,yes,yes,yes
+no,2,yes,177,45,2,no,yes,never,no,yes,80,male,chronic stress,sometimes,no,yes,no,yes,yes,no,no,no
+yes,3,yes,168,45,3,yes,yes,never,no,yes,73,male,acute stress,sometimes,no,no,no,yes,yes,yes,yes,no
+no,5,yes,184,49,2,no,no,never,no,yes,85,female,chronic stress,frequently,no,yes,yes,no,yes,no,no,no
+yes,3,yes,155,75,3,no,yes,sometimes,yes,yes,81,female,episodic,sometimes,no,no,no,no,no,no,yes,no
+no,3,yes,156,60,2,yes,yes,sometimes,yes,yes,77,female,acute stress,sometimes,yes,yes,no,yes,yes,no,yes,no
+no,4,no,148,81,2,no,no,never,no,yes,81,male,chronic stress,sometimes,yes,yes,no,no,yes,yes,yes,no
+no,3,yes,170,88,3,no,no,never,no,yes,69,female,chronic stress,sometimes,no,yes,yes,yes,yes,yes,no,no
+yes,5,no,164,61,3,no,no,frequently,no,yes,80,male,chronic stress,sometimes,no,no,no,yes,yes,yes,yes,no
+no,4,no,189,78,4,no,no,sometimes,no,yes,69,male,chronic stress,frequently,no,no,yes,no,yes,yes,no,no
+no,3,no,179,53,4,no,no,never,no,yes,74,female,chronic stress,sometimes,no,no,yes,yes,no,yes,no,no
+no,2,no,163,52,3,no,no,never,no,yes,83,male,acute stress,sometimes,yes,no,no,yes,no,no,yes,no
+no,3,yes,150,56,2,no,no,frequently,no,yes,75,male,chronic stress,sometimes,no,yes,no,yes,no,yes,no,no
+no,3,no,170,98,2,no,no,frequently,no,yes,81,female,acute stress,never,no,no,no,no,no,no,no,no
+no,3,no,180,56,3,no,no,sometimes,no,yes,67,male,chronic stress,frequently,no,no,yes,yes,yes,no,no,no
+no,1,yes,140,66,3,no,no,sometimes,no,yes,73,female,acute stress,sometimes,no,yes,yes,yes,yes,yes,no,no
+no,3,no,162,56,3,no,yes,frequently,no,yes,71,female,chronic stress,sometimes,no,no,yes,no,no,yes,no,no
+no,4,no,170,78,4,no,no,never,no,yes,73,male,chronic stress,never,no,no,yes,no,no,no,no,no
+no,1,no,151,73,4,no,no,never,no,yes,73,female,acute stress,frequently,yes,yes,no,no,no,no,no,no
+no,5,yes,150,50,3,no,no,frequently,no,yes,67,female,chronic stress,never,no,yes,no,yes,yes,no,no,no
+no,4,no,158,56,4,no,no,frequently,no,yes,79,female,chronic stress,never,no,no,no,yes,no,yes,no,no
+no,3,yes,187,45,2,no,no,never,no,yes,75,female,acute stress,sometimes,no,yes,no,yes,no,yes,no,no
+no,5,yes,152,86,3,no,yes,sometimes,yes,yes,83,male,episodic,sometimes,no,yes,no,no,no,yes,no,no
+yes,3,yes,141,82,4,no,yes,sometimes,no,yes,76,female,acute stress,sometimes,yes,no,yes,no,no,yes,yes,no
+no,4,yes,151,72,3,no,no,sometimes,yes,no,78,male,chronic stress,sometimes,yes,no,no,yes,no,yes,yes,no
+yes,4,yes,172,94,4,no,yes,sometimes,no,no,67,female,acute stress,sometimes,yes,no,no,yes,yes,no,yes,no
+yes,5,yes,188,74,3,yes,yes,sometimes,no,no,77,female,acute stress,frequently,yes,no,no,no,yes,no,yes,yes
+no,4,yes,167,62,4,yes,yes,frequently,no,no,70,male,chronic stress,frequently,yes,no,yes,yes,no,yes,yes,yes
+yes,4,yes,186,69,3,no,no,never,yes,no,72,female,chronic stress,frequently,yes,yes,no,yes,no,no,no,yes
+no,3,yes,151,77,3,no,no,never,no,no,66,female,acute stress,never,no,no,no,no,yes,yes,yes,yes
+yes,4,no,185,88,3,no,yes,never,no,no,83,female,chronic stress,sometimes,no,no,yes,yes,no,no,yes,no
+no,3,yes,187,75,2,no,yes,frequently,no,no,78,male,acute stress,never,no,no,yes,no,yes,no,yes,no
+yes,5,yes,158,49,2,no,no,never,no,no,74,male,acute stress,frequently,no,yes,no,no,yes,no,yes,no
+no,5,yes,148,98,2,no,yes,never,no,no,72,female,chronic stress,sometimes,no,yes,no,yes,yes,yes,no,yes
+no,2,yes,174,97,3,yes,yes,never,yes,no,84,male,acute stress,sometimes,yes,yes,no,yes,yes,no,no,no
+no,1,yes,169,75,2,yes,no,never,no,no,83,male,episodic,frequently,no,yes,no,yes,no,no,yes,no
+no,2,yes,152,66,2,no,no,never,yes,no,65,male,acute stress,frequently,no,no,yes,yes,no,no,no,no
+no,3,yes,166,81,3,no,yes,never,no,no,69,female,chronic stress,sometimes,no,no,yes,no,yes,no,no,no
+no,3,yes,150,71,3,no,yes,sometimes,no,no,82,male,acute stress,sometimes,no,no,no,no,no,no,no,yes
+no,2,no,185,67,3,no,no,never,no,no,76,male,chronic stress,never,no,no,no,yes,yes,no,no,no
+no,3,yes,141,98,3,no,yes,never,yes,no,72,female,episodic,sometimes,no,yes,no,yes,yes,no,no,no
+no,2,no,179,75,2,no,no,never,no,no,79,male,acute stress,sometimes,no,yes,yes,yes,no,no,yes,no
+yes,3,yes,156,82,4,no,no,never,yes,no,67,female,chronic stress,sometimes,yes,no,no,no,no,yes,yes,no
+no,5,yes,170,66,2,no,no,never,no,no,73,female,acute stress,never,no,yes,yes,no,yes,no,yes,no
+no,5,yes,155,48,2,no,no,sometimes,no,no,84,male,acute stress,sometimes,no,no,yes,no,no,yes,yes,no
+no,4,yes,186,53,3,no,no,never,no,no,76,male,chronic stress,sometimes,no,yes,no,no,no,yes,no,no
+yes,4,yes,159,95,2,no,yes,sometimes,yes,no,85,female,acute stress,frequently,yes,yes,no,no,yes,yes,no,yes
+yes,5,yes,147,46,3,no,yes,never,yes,no,76,male,chronic stress,frequently,yes,yes,yes,no,yes,no,no,yes
+yes,4,yes,172,98,2,no,yes,sometimes,no,no,73,male,acute stress,sometimes,no,yes,no,yes,no,yes,yes,no
+yes,3,yes,150,67,3,no,no,never,no,no,75,female,acute stress,frequently,yes,no,no,no,yes,no,yes,no
+no,3,yes,143,49,2,no,no,frequently,no,no,67,female,chronic stress,never,no,yes,no,yes,no,yes,no,no
+yes,4,yes,175,68,3,no,no,sometimes,yes,no,73,female,episodic,frequently,no,no,yes,yes,yes,no,no,no
+no,4,no,165,78,2,no,yes,sometimes,no,no,71,female,chronic stress,sometimes,no,no,no,yes,yes,yes,no,no
+yes,5,no,150,77,2,no,no,never,no,no,85,female,chronic stress,sometimes,no,yes,no,no,yes,no,yes,no
+no,4,yes,150,57,3,no,yes,never,no,no,83,male,chronic stress,sometimes,no,no,yes,yes,no,yes,no,no
+no,3,no,144,49,2,no,no,sometimes,no,no,71,female,chronic stress,never,no,no,no,yes,yes,no,no,no
+yes,4,yes,172,99,3,yes,no,never,no,no,80,male,chronic stress,sometimes,yes,no,no,yes,no,yes,no,yes
+yes,3,yes,142,93,3,no,yes,never,no,no,82,female,chronic stress,sometimes,no,yes,no,yes,yes,no,no,no
+yes,3,no,183,71,3,yes,no,never,no,no,73,male,chronic stress,sometimes,yes,no,yes,yes,no,no,no,yes
+no,3,no,187,48,3,no,no,never,no,no,72,female,episodic,never,no,no,no,yes,no,yes,no,no
+yes,2,yes,143,71,2,no,no,never,no,no,75,female,chronic stress,sometimes,yes,yes,no,no,yes,no,yes,no
+yes,3,yes,144,98,3,no,no,never,yes,no,72,female,acute stress,sometimes,yes,yes,no,yes,yes,yes,yes,no
+yes,5,yes,186,68,2,yes,no,never,yes,no,83,male,chronic stress,frequently,yes,yes,yes,yes,no,yes,yes,no
+yes,3,yes,163,63,3,yes,no,sometimes,yes,no,66,male,chronic stress,sometimes,yes,yes,no,no,yes,yes,yes,yes
+yes,3,yes,171,86,2,yes,yes,sometimes,yes,no,74,male,chronic stress,sometimes,yes,yes,no,no,yes,no,yes,yes
+yes,4,yes,171,69,2,yes,yes,never,yes,no,85,male,chronic stress,sometimes,yes,yes,no,no,no,yes,yes,yes
+yes,3,yes,146,88,3,yes,no,never,yes,no,68,female,acute stress,sometimes,yes,yes,yes,yes,no,yes,yes,yes
+yes,5,yes,145,56,3,yes,no,frequently,yes,no,71,female,acute stress,sometimes,yes,yes,no,yes,no,no,yes,yes
+yes,4,yes,171,91,4,yes,yes,sometimes,yes,no,76,female,acute stress,frequently,yes,yes,yes,no,no,yes,yes,yes
+yes,3,yes,172,79,4,yes,no,never,yes,no,81,female,chronic stress,sometimes,yes,yes,yes,yes,yes,yes,yes,yes
+yes,2,yes,165,96,3,yes,no,never,yes,no,80,female,episodic,sometimes,yes,yes,no,yes,yes,no,yes,yes
+yes,3,yes,184,68,2,yes,yes,frequently,yes,no,66,female,acute stress,sometimes,yes,yes,no,yes,yes,yes,yes,yes
+yes,3,yes,149,55,2,yes,yes,frequently,yes,no,68,female,acute stress,never,yes,yes,no,yes,yes,yes,yes,yes
+yes,3,yes,182,52,3,yes,no,sometimes,yes,no,75,female,chronic stress,frequently,yes,yes,yes,no,yes,yes,yes,yes
+yes,1,yes,151,91,3,yes,yes,sometimes,yes,no,85,female,acute stress,sometimes,yes,yes,yes,yes,yes,yes,yes,yes
+yes,3,yes,181,60,3,yes,yes,frequently,yes,no,78,male,acute stress,sometimes,yes,yes,yes,no,no,no,yes,yes
+yes,4,yes,144,64,4,yes,yes,never,yes,no,78,female,acute stress,never,yes,yes,yes,yes,no,no,yes,yes
+yes,1,yes,173,68,4,yes,yes,never,yes,no,68,male,episodic,frequently,yes,yes,no,yes,yes,no,yes,yes
+yes,5,yes,168,96,3,yes,yes,frequently,yes,no,74,male,episodic,never,yes,yes,no,no,yes,no,yes,yes
+yes,4,yes,173,85,4,yes,no,frequently,yes,no,79,male,episodic,never,yes,yes,no,no,yes,yes,yes,yes
+yes,3,yes,171,73,2,no,no,never,yes,no,75,male,acute stress,sometimes,yes,yes,no,yes,yes,yes,yes,yes
+yes,5,yes,152,78,3,yes,no,sometimes,yes,no,72,female,episodic,sometimes,yes,yes,no,no,no,yes,yes,yes
+yes,3,yes,170,57,4,yes,no,sometimes,yes,no,73,male,episodic,sometimes,yes,yes,yes,no,no,no,yes,yes
+yes,4,yes,176,54,3,yes,yes,sometimes,yes,no,79,male,acute stress,sometimes,yes,yes,no,no,yes,yes,yes,yes
+yes,4,yes,169,97,4,yes,yes,sometimes,yes,no,68,male,acute stress,sometimes,yes,yes,no,no,no,no,yes,yes
+yes,5,no,167,79,3,yes,no,sometimes,yes,no,69,female,acute stress,frequently,yes,yes,no,no,no,no,yes,no
+yes,4,yes,160,60,4,no,no,frequently,no,no,72,female,acute stress,frequently,yes,yes,yes,yes,yes,yes,yes,no
+yes,4,yes,150,63,3,no,no,never,no,no,78,female,acute stress,frequently,yes,yes,no,yes,yes,no,yes,yes
+yes,3,yes,140,89,3,yes,yes,never,yes,no,75,male,chronic stress,never,yes,yes,yes,no,yes,yes,no,yes
+yes,4,no,157,88,3,no,no,never,no,no,69,male,acute stress,sometimes,yes,no,yes,yes,yes,yes,yes,yes
+yes,3,yes,160,61,2,no,no,frequently,yes,no,85,female,acute stress,never,yes,yes,yes,no,yes,yes,yes,no
+yes,2,yes,177,96,3,yes,yes,sometimes,yes,no,72,male,episodic,sometimes,yes,yes,no,no,no,no,yes,yes
+yes,4,no,172,79,4,yes,no,frequently,yes,no,73,male,acute stress,sometimes,yes,yes,no,yes,yes,no,no,yes
+yes,4,yes,180,64,3,no,no,never,yes,no,83,male,episodic,frequently,yes,yes,no,yes,yes,no,yes,yes
+yes,3,yes,153,93,3,no,no,never,yes,no,68,male,acute stress,frequently,yes,yes,yes,yes,yes,no,yes,yes
+yes,3,yes,176,76,3,yes,no,frequently,yes,no,65,male,acute stress,frequently,yes,yes,yes,yes,no,no,yes,yes
+yes,3,no,185,79,2,yes,no,sometimes,yes,no,76,male,acute stress,never,yes,yes,yes,no,yes,no,yes,yes
+yes,3,yes,166,100,2,no,no,sometimes,yes,no,81,female,acute stress,never,yes,yes,yes,yes,yes,yes,yes,yes
+yes,1,yes,167,83,1,yes,no,frequently,yes,no,65,female,chronic stress,never,yes,yes,no,yes,no,yes,yes,yes
+yes,3,yes,178,100,3,yes,yes,sometimes,yes,no,66,female,episodic,sometimes,yes,yes,no,no,yes,no,yes,yes
+yes,1,yes,140,86,4,yes,yes,frequently,yes,no,69,female,episodic,sometimes,yes,yes,yes,no,yes,yes,yes,yes
+yes,4,yes,190,90,2,yes,yes,sometimes,yes,no,74,male,episodic,sometimes,yes,yes,yes,no,no,yes,yes,yes
+yes,4,yes,156,60,2,yes,yes,never,yes,no,75,male,acute stress,frequently,yes,yes,yes,yes,yes,no,yes,yes
+yes,2,yes,159,61,2,yes,yes,never,yes,no,82,female,episodic,never,yes,yes,yes,yes,yes,no,yes,yes
+yes,4,yes,162,79,3,yes,yes,frequently,yes,no,77,female,acute stress,sometimes,yes,yes,no,yes,no,yes,yes,yes
+yes,4,yes,153,75,2,yes,yes,sometimes,yes,no,77,male,episodic,frequently,yes,yes,no,yes,yes,yes,yes,yes
+yes,3,yes,168,77,2,yes,yes,sometimes,yes,no,66,female,episodic,sometimes,yes,yes,yes,no,no,yes,yes,no
+yes,2,yes,169,46,1,yes,yes,never,yes,no,67,female,acute stress,frequently,yes,yes,yes,yes,no,no,yes,yes
+yes,3,yes,189,51,2,no,no,never,yes,no,71,male,chronic stress,never,yes,yes,no,no,no,yes,yes,yes
+yes,2,yes,183,76,3,no,no,sometimes,yes,no,85,female,episodic,frequently,yes,yes,no,no,yes,yes,yes,no
+yes,3,yes,188,73,3,yes,no,frequently,yes,no,69,male,episodic,never,yes,yes,no,no,no,yes,yes,yes
+yes,3,yes,183,73,3,yes,yes,sometimes,yes,no,74,male,acute stress,sometimes,yes,yes,yes,yes,no,yes,yes,yes
+yes,2,yes,143,85,3,yes,yes,sometimes,yes,no,84,male,episodic,never,yes,yes,yes,yes,yes,no,yes,yes
+yes,3,yes,140,74,2,yes,yes,frequently,yes,no,76,female,acute stress,frequently,yes,yes,no,yes,yes,yes,yes,yes
+yes,4,yes,181,65,3,yes,no,frequently,yes,no,75,male,acute stress,sometimes,yes,yes,no,yes,no,yes,yes,yes
+yes,3,yes,160,91,3,yes,yes,frequently,yes,yes,74,male,acute stress,sometimes,yes,yes,yes,yes,yes,no,yes,yes
+yes,3,yes,167,72,3,no,no,never,yes,yes,72,male,episodic,sometimes,yes,yes,yes,yes,yes,no,yes,yes
+yes,2,yes,159,95,4,yes,no,frequently,yes,yes,70,female,episodic,sometimes,yes,yes,yes,no,no,no,yes,yes
+yes,3,yes,166,93,3,yes,yes,sometimes,yes,yes,80,female,episodic,frequently,yes,yes,yes,yes,yes,yes,yes,yes
+yes,3,yes,182,52,2,yes,no,never,yes,no,69,female,acute stress,never,yes,yes,yes,no,no,yes,yes,yes
+yes,2,yes,151,65,1,yes,no,sometimes,yes,no,74,male,acute stress,sometimes,yes,yes,yes,yes,yes,yes,yes,yes
+yes,4,yes,167,55,3,no,no,frequently,yes,no,66,male,acute stress,never,yes,yes,no,yes,no,no,yes,yes
+yes,3,yes,169,79,2,no,no,never,no,no,85,female,chronic stress,sometimes,yes,yes,no,no,no,yes,yes,yes
+yes,3,yes,151,62,3,yes,no,frequently,no,no,83,female,acute stress,frequently,yes,yes,no,no,yes,no,yes,yes
+no,3,yes,189,92,2,no,no,never,yes,no,74,male,acute stress,sometimes,yes,yes,no,yes,no,no,yes,yes
+yes,4,yes,179,47,3,no,no,never,yes,no,82,male,chronic stress,sometimes,yes,yes,no,yes,yes,yes,yes,yes
+yes,3,yes,183,69,3,yes,no,frequently,yes,no,81,male,acute stress,sometimes,yes,yes,yes,no,no,yes,yes,yes
+yes,2,yes,188,76,3,yes,yes,never,yes,no,71,female,chronic stress,never,yes,yes,no,yes,yes,yes,yes,yes
+yes,3,yes,160,96,3,no,no,never,yes,no,84,male,chronic stress,sometimes,yes,yes,no,yes,no,yes,yes,yes
+yes,2,yes,154,87,2,yes,no,never,yes,no,83,male,acute stress,sometimes,yes,yes,yes,no,yes,yes,yes,yes
+yes,3,yes,186,77,4,yes,yes,never,yes,no,76,female,acute stress,sometimes,yes,yes,no,no,no,yes,yes,yes
+yes,5,yes,183,73,2,no,no,never,yes,no,80,male,acute stress,never,yes,yes,yes,yes,yes,yes,yes,yes
+yes,5,yes,182,91,2,yes,yes,sometimes,yes,no,70,male,acute stress,sometimes,yes,yes,yes,no,yes,no,yes,yes
+yes,4,yes,145,77,3,yes,no,never,yes,no,74,male,episodic,sometimes,yes,yes,no,no,yes,no,yes,yes
+yes,4,yes,183,73,2,yes,no,sometimes,yes,no,69,male,chronic stress,frequently,yes,yes,no,yes,yes,yes,yes,yes
+yes,5,yes,145,77,3,no,no,never,yes,no,75,male,chronic stress,frequently,yes,no,yes,yes,yes,yes,yes,yes
+yes,4,yes,162,67,2,yes,yes,sometimes,yes,no,80,male,chronic stress,sometimes,yes,yes,no,no,no,no,yes,yes
+yes,3,yes,168,49,3,yes,yes,never,yes,no,73,female,chronic stress,frequently,yes,yes,no,no,no,yes,yes,yes
+yes,3,yes,147,94,2,no,no,frequently,yes,no,66,male,chronic stress,never,yes,yes,no,yes,no,no,yes,yes
+yes,4,yes,177,93,3,no,no,sometimes,yes,no,81,female,acute stress,frequently,yes,yes,yes,yes,yes,no,yes,yes
+yes,4,yes,163,78,2,yes,yes,sometimes,yes,no,81,female,episodic,sometimes,yes,yes,no,no,no,yes,no,yes
+no,5,yes,177,54,2,no,no,never,no,no,76,male,acute stress,sometimes,no,yes,no,no,yes,no,yes,yes
+yes,4,yes,160,72,3,no,no,never,no,no,79,female,acute stress,sometimes,no,yes,yes,no,no,no,yes,yes
+yes,3,yes,174,96,2,no,no,sometimes,no,no,68,female,acute stress,never,yes,yes,no,yes,no,no,yes,no
+yes,3,no,166,86,3,no,yes,never,no,no,77,male,acute stress,sometimes,no,yes,yes,no,yes,yes,yes,yes
+no,3,no,167,75,3,no,no,never,no,no,68,male,acute stress,never,no,yes,no,no,no,yes,yes,no
+yes,2,yes,183,66,2,no,no,never,no,no,73,female,acute stress,sometimes,yes,yes,no,yes,no,no,yes,yes
+yes,3,yes,181,64,3,no,yes,never,no,no,70,female,acute stress,sometimes,no,yes,no,yes,no,yes,yes,yes
+yes,5,no,155,58,2,no,no,never,yes,no,79,female,chronic stress,frequently,no,no,yes,yes,yes,no,yes,no
+yes,3,no,163,87,3,no,yes,sometimes,no,no,76,male,acute stress,sometimes,yes,yes,no,yes,yes,yes,no,yes
+yes,3,yes,157,88,2,no,yes,sometimes,yes,no,74,male,acute stress,sometimes,no,yes,no,yes,no,no,yes,no
+no,4,no,141,64,2,no,yes,never,yes,no,78,female,chronic stress,sometimes,no,yes,no,no,no,no,yes,yes
+yes,3,yes,145,55,3,no,yes,never,yes,yes,70,female,episodic,sometimes,no,yes,yes,no,no,no,yes,yes
+yes,5,yes,149,77,3,no,no,frequently,yes,yes,73,female,chronic stress,sometimes,no,no,no,yes,yes,no,yes,no
+yes,4,yes,166,84,4,no,yes,sometimes,no,yes,82,female,acute stress,frequently,no,yes,yes,no,yes,yes,yes,no
+no,3,yes,147,96,4,no,no,never,no,yes,70,female,chronic stress,sometimes,no,yes,yes,no,no,no,yes,yes
+yes,2,yes,145,52,3,no,yes,never,yes,yes,85,female,chronic stress,never,no,no,no,yes,yes,no,no,no
+yes,3,yes,165,99,2,no,yes,frequently,yes,yes,67,male,chronic stress,sometimes,no,yes,no,yes,no,no,no,yes
+yes,3,no,177,78,2,no,yes,frequently,no,yes,74,female,chronic stress,never,no,no,no,yes,no,no,no,yes
+no,3,yes,187,63,3,no,yes,sometimes,no,yes,75,female,chronic stress,frequently,yes,yes,yes,yes,no,no,yes,yes
+no,1,yes,146,45,3,no,yes,sometimes,yes,yes,66,female,acute stress,sometimes,no,yes,yes,yes,yes,no,no,yes
+yes,3,yes,160,64,3,no,yes,frequently,no,yes,81,male,acute stress,sometimes,no,no,yes,no,no,no,yes,yes
+yes,4,no,170,76,4,yes,no,never,yes,yes,71,female,acute stress,never,no,yes,yes,yes,yes,no,yes,yes
+no,1,yes,188,93,4,no,no,never,no,yes,82,male,chronic stress,frequently,no,yes,no,no,no,yes,yes,no
+yes,5,yes,172,92,3,yes,yes,frequently,no,yes,73,female,acute stress,never,no,yes,no,yes,yes,no,yes,yes
+no,4,no,180,56,4,no,no,frequently,no,yes,84,female,episodic,never,yes,no,no,no,yes,yes,yes,yes
+no,3,yes,187,57,2,no,yes,never,no,yes,84,female,acute stress,sometimes,no,yes,no,no,yes,yes,yes,yes
+no,5,no,169,74,3,no,no,sometimes,no,yes,70,female,acute stress,sometimes,no,no,no,yes,yes,no,no,no
+yes,3,yes,140,84,4,no,yes,sometimes,no,yes,68,male,chronic stress,sometimes,no,no,yes,no,yes,no,no,yes
+yes,4,no,177,94,3,no,no,sometimes,no,yes,80,male,acute stress,sometimes,no,no,no,no,yes,no,yes,yes
+yes,4,no,184,55,4,yes,yes,sometimes,yes,yes,74,male,acute stress,sometimes,no,no,no,no,yes,yes,no,yes
+yes,5,yes,143,60,3,no,yes,sometimes,yes,yes,79,female,acute stress,frequently,no,yes,no,yes,no,no,no,yes
+no,4,yes,157,63,4,no,no,frequently,yes,yes,76,female,acute stress,frequently,yes,no,yes,yes,no,no,yes,yes
+yes,4,yes,189,67,3,no,yes,never,no,yes,66,female,chronic stress,frequently,no,yes,no,no,no,no,yes,no
+yes,3,yes,173,74,3,no,no,never,yes,yes,77,male,episodic,never,no,yes,no,no,no,no,yes,yes
+yes,4,no,180,73,3,no,yes,never,no,yes,85,male,chronic stress,sometimes,yes,no,yes,yes,yes,no,yes,yes
+no,3,yes,166,85,2,no,yes,frequently,yes,yes,85,female,episodic,never,no,yes,yes,yes,no,yes,no,yes
+no,4,yes,183,75,3,yes,yes,frequently,no,no,74,female,episodic,frequently,yes,yes,yes,yes,no,no,yes,yes
+yes,3,yes,146,93,2,no,no,never,no,yes,72,female,acute stress,never,no,yes,yes,yes,yes,no,no,no
+yes,3,yes,176,92,3,no,no,never,yes,no,74,female,chronic stress,sometimes,yes,yes,no,yes,yes,yes,yes,no
+yes,3,no,188,74,2,yes,yes,never,yes,yes,83,male,episodic,sometimes,yes,no,yes,yes,yes,no,yes,yes
+yes,5,yes,185,56,2,no,yes,never,yes,no,67,female,acute stress,frequently,yes,yes,yes,yes,yes,no,yes,yes
+no,5,yes,176,69,2,no,no,never,no,yes,85,female,episodic,never,no,yes,yes,no,yes,yes,no,yes
+no,4,no,186,55,3,yes,no,never,yes,yes,78,female,acute stress,sometimes,yes,yes,no,yes,no,yes,yes,yes
+no,5,yes,152,66,2,no,yes,sometimes,yes,yes,85,female,acute stress,frequently,yes,yes,no,no,no,no,no,no
+yes,3,no,157,59,3,yes,no,never,no,yes,70,female,acute stress,sometimes,yes,no,no,no,yes,no,no,yes
+yes,4,yes,161,52,3,yes,no,never,yes,yes,65,female,acute stress,sometimes,yes,yes,yes,no,yes,no,yes,yes
+no,4,yes,140,66,2,no,yes,never,yes,yes,82,female,chronic stress,frequently,yes,yes,no,yes,yes,no,yes,yes
+yes,3,yes,188,65,2,yes,yes,never,no,yes,65,female,acute stress,never,yes,yes,no,yes,yes,no,yes,yes
+no,5,no,158,75,4,no,yes,never,no,yes,85,female,acute stress,sometimes,no,no,no,yes,no,no,yes,yes
+yes,3,yes,181,77,3,yes,no,never,yes,yes,70,female,chronic stress,never,yes,no,yes,yes,no,no,yes,yes
+yes,4,yes,166,83,3,yes,no,never,no,yes,65,female,acute stress,sometimes,yes,yes,no,no,no,yes,yes,no
+yes,2,yes,181,50,2,no,no,never,no,yes,77,male,acute stress,frequently,yes,no,yes,yes,no,yes,no,yes
+no,2,yes,166,69,3,no,yes,never,no,yes,68,female,acute stress,frequently,no,no,yes,no,yes,yes,no,yes
+yes,5,no,154,90,3,no,no,never,no,yes,66,female,acute stress,never,no,no,yes,yes,yes,yes,yes,yes
+no,4,no,169,48,3,no,no,never,yes,yes,80,female,acute stress,never,yes,no,no,yes,yes,no,yes,yes
+yes,3,yes,174,92,3,no,no,never,no,yes,78,female,acute stress,sometimes,yes,no,no,yes,yes,no,yes,yes
+no,5,yes,143,99,4,no,no,never,no,yes,85,female,chronic stress,sometimes,yes,no,yes,no,no,yes,no,yes
+no,2,no,171,91,4,no,yes,sometimes,no,yes,78,female,acute stress,frequently,yes,no,yes,yes,yes,yes,yes,yes
+yes,3,yes,141,85,3,yes,no,never,no,yes,68,female,chronic stress,never,yes,yes,yes,no,yes,yes,no,yes
+yes,2,no,149,94,4,yes,no,sometimes,no,yes,75,male,acute stress,frequently,yes,yes,yes,no,yes,no,yes,yes
+no,3,no,164,81,2,no,no,never,yes,yes,65,male,episodic,sometimes,no,yes,yes,yes,yes,no,yes,no
+no,2,yes,161,80,4,no,yes,sometimes,yes,yes,70,male,acute stress,never,yes,yes,no,yes,yes,yes,yes,yes
+no,2,yes,145,85,3,no,no,never,yes,yes,75,female,chronic stress,frequently,no,yes,no,no,yes,yes,yes,no
+no,3,no,186,67,2,yes,yes,never,yes,yes,74,male,acute stress,never,yes,yes,no,no,no,yes,yes,no
+yes,5,yes,175,53,3,yes,yes,never,no,yes,85,female,acute stress,sometimes,no,yes,no,no,no,yes,yes,no
+no,3,yes,142,93,2,yes,yes,never,yes,yes,84,male,acute stress,frequently,no,no,no,no,yes,yes,yes,yes
+no,5,no,157,45,2,no,no,never,no,yes,80,female,acute stress,never,yes,yes,no,no,yes,yes,yes,no
+yes,4,yes,181,86,3,no,no,never,no,yes,78,female,chronic stress,sometimes,yes,yes,no,no,no,yes,yes,no
+no,2,no,142,75,2,yes,no,never,no,yes,66,female,episodic,frequently,no,yes,yes,no,yes,yes,yes,no
+no,5,no,160,56,2,no,yes,never,yes,yes,81,female,acute stress,frequently,no,yes,yes,no,yes,no,yes,yes
+yes,2,yes,145,51,2,no,no,never,yes,yes,67,female,chronic stress,never,yes,yes,yes,yes,yes,yes,yes,no
+yes,1,yes,155,98,3,yes,no,never,yes,yes,74,male,chronic stress,sometimes,yes,yes,yes,yes,yes,yes,yes,no
+yes,3,yes,188,79,3,no,yes,never,yes,yes,72,female,chronic stress,sometimes,yes,no,yes,no,no,no,yes,no
+no,5,yes,182,92,2,yes,yes,never,no,yes,80,male,chronic stress,sometimes,yes,yes,no,no,no,no,yes,no
+yes,4,yes,166,48,2,no,no,never,yes,yes,72,female,episodic,frequently,yes,yes,no,yes,yes,no,yes,no
+no,5,yes,172,57,2,yes,yes,never,yes,no,81,female,acute stress,sometimes,yes,yes,no,yes,yes,no,yes,yes
+yes,2,yes,181,69,2,yes,no,never,yes,no,74,female,chronic stress,frequently,yes,yes,yes,no,no,yes,yes,no
+yes,2,yes,163,68,3,yes,no,never,yes,no,77,female,chronic stress,frequently,yes,yes,yes,no,no,yes,yes,yes
+yes,5,yes,175,79,3,yes,no,never,yes,no,66,male,acute stress,never,yes,yes,yes,yes,yes,yes,yes,no
+yes,4,yes,156,88,3,no,no,never,yes,no,67,female,acute stress,never,yes,yes,no,yes,yes,yes,yes,no
+yes,3,yes,156,84,3,yes,yes,never,yes,no,71,female,chronic stress,sometimes,yes,yes,no,yes,no,yes,yes,yes
+yes,5,yes,163,67,4,yes,no,never,yes,no,82,male,chronic stress,sometimes,yes,yes,yes,yes,yes,yes,yes,no
+yes,2,yes,177,65,4,no,no,sometimes,yes,no,70,female,chronic stress,frequently,yes,yes,yes,no,yes,yes,yes,no
+yes,3,yes,179,57,3,yes,no,never,yes,no,80,female,chronic stress,never,yes,yes,yes,no,yes,yes,yes,yes
+yes,2,yes,175,86,4,yes,no,sometimes,yes,no,73,female,acute stress,frequently,yes,yes,yes,yes,yes,yes,yes,yes
+yes,3,yes,152,60,2,yes,yes,never,yes,no,76,male,chronic stress,sometimes,yes,yes,yes,no,no,no,yes,yes
+yes,2,yes,160,70,4,yes,no,sometimes,yes,no,65,female,chronic stress,never,yes,yes,no,yes,yes,no,yes,yes
+yes,2,yes,165,60,3,no,yes,never,no,no,83,female,acute stress,frequently,yes,yes,no,no,yes,yes,yes,yes
+yes,3,yes,177,89,2,no,no,never,yes,no,81,female,acute stress,never,yes,yes,no,no,no,no,yes,yes
+yes,5,yes,154,76,3,no,no,never,yes,no,69,female,acute stress,sometimes,yes,yes,no,no,yes,no,yes,yes
+yes,3,yes,143,49,2,yes,yes,never,yes,no,77,female,chronic stress,frequently,yes,yes,no,yes,yes,no,yes,yes
+yes,5,yes,166,73,2,yes,yes,never,yes,no,85,female,chronic stress,never,yes,yes,no,no,yes,yes,yes,yes
+no,4,yes,167,88,3,no,no,never,yes,no,65,female,acute stress,sometimes,yes,no,no,yes,no,yes,yes,yes
+yes,2,yes,140,51,2,no,no,never,no,no,83,male,acute stress,frequently,yes,yes,yes,yes,no,no,no,no
+no,5,yes,169,47,2,no,yes,never,no,no,81,female,episodic,frequently,yes,no,yes,no,yes,no,no,yes
+no,2,no,177,54,2,no,no,never,no,no,75,female,chronic stress,never,yes,no,yes,no,no,no,no,yes
+no,1,yes,158,59,3,yes,yes,never,no,no,69,female,acute stress,sometimes,yes,no,yes,yes,yes,no,no,no
+no,3,no,149,71,3,no,no,never,no,no,77,female,acute stress,sometimes,yes,no,yes,yes,no,no,no,yes
+no,5,no,180,88,2,no,yes,never,no,no,80,male,acute stress,sometimes,yes,no,no,yes,no,no,no,no
+no,4,no,189,99,2,no,yes,never,no,no,70,female,chronic stress,frequently,yes,no,no,no,no,no,no,yes
+no,4,yes,160,51,3,no,yes,never,no,yes,85,female,acute stress,never,yes,no,no,no,no,yes,no,yes
+no,5,yes,164,100,4,no,no,never,no,yes,83,female,acute stress,frequently,yes,no,yes,yes,no,no,no,yes
+yes,5,yes,145,67,2,no,yes,never,no,yes,66,female,acute stress,sometimes,yes,no,yes,yes,yes,no,no,no
+no,4,no,143,95,2,no,no,never,yes,yes,77,female,episodic,sometimes,yes,no,no,yes,no,no,no,yes
+no,5,no,166,69,3,no,no,never,no,yes,74,female,acute stress,sometimes,yes,no,yes,no,no,no,no,no
+yes,5,no,149,49,2,no,yes,never,no,yes,74,male,acute stress,frequently,no,yes,yes,yes,yes,yes,yes,yes
+no,4,no,145,47,2,no,yes,never,no,yes,74,male,acute stress,never,no,no,no,yes,yes,yes,yes,no
+yes,5,no,187,93,4,no,no,never,no,yes,67,male,chronic stress,frequently,no,no,no,no,yes,yes,yes,no
+no,5,no,160,86,4,no,yes,never,no,yes,80,female,acute stress,sometimes,no,no,yes,no,no,yes,yes,no
+no,4,no,165,61,4,no,no,never,no,yes,84,male,acute stress,sometimes,no,yes,yes,no,no,yes,no,no
+no,5,yes,144,70,4,no,no,never,yes,yes,75,female,acute stress,never,yes,yes,no,no,yes,no,yes,no
+no,5,yes,153,46,4,no,yes,never,yes,yes,71,male,acute stress,never,yes,yes,no,no,no,no,yes,no
+yes,3,yes,150,98,3,no,no,never,yes,yes,66,female,episodic,sometimes,yes,yes,no,yes,yes,yes,yes,no
+yes,5,no,167,59,2,yes,no,never,yes,no,70,female,chronic stress,frequently,yes,yes,no,no,yes,yes,yes,yes
+yes,4,yes,175,52,2,no,yes,never,yes,no,71,female,chronic stress,frequently,yes,yes,yes,no,yes,no,no,no
+no,2,yes,169,54,3,no,no,never,no,no,77,female,acute stress,sometimes,no,yes,no,yes,no,yes,yes,no
+no,4,no,164,87,3,no,no,never,no,no,80,female,chronic stress,frequently,no,no,no,yes,no,yes,yes,no
+no,5,yes,157,93,2,no,no,never,no,no,79,female,chronic stress,frequently,no,yes,no,yes,no,yes,yes,no
+no,5,no,186,76,2,no,no,never,no,no,84,male,chronic stress,sometimes,no,no,no,no,yes,yes,yes,no
+no,2,yes,166,71,3,no,no,never,no,no,66,female,acute stress,sometimes,no,yes,no,no,yes,no,yes,yes
+no,1,yes,160,60,2,no,no,never,yes,no,78,female,acute stress,frequently,no,yes,no,no,no,no,yes,yes
+yes,2,no,183,72,2,no,no,never,no,no,82,male,acute stress,frequently,yes,yes,yes,yes,yes,no,yes,yes
+yes,5,no,141,71,2,no,yes,never,yes,no,80,male,acute stress,frequently,yes,no,no,no,no,yes,yes,yes
+yes,5,no,165,74,2,no,no,never,no,no,67,female,acute stress,sometimes,no,no,no,no,no,no,no,yes
+no,2,no,175,73,3,no,no,never,no,no,71,male,chronic stress,sometimes,yes,no,no,no,yes,yes,yes,yes
+yes,1,yes,161,73,2,no,no,never,yes,no,68,female,chronic stress,frequently,yes,yes,no,yes,yes,yes,yes,yes
+no,2,yes,174,73,2,no,no,never,no,no,85,female,acute stress,frequently,no,no,yes,no,no,yes,no,no
+yes,3,yes,164,100,3,no,no,never,yes,yes,84,male,chronic stress,sometimes,yes,yes,yes,no,yes,yes,yes,no
+no,3,yes,171,77,3,no,no,sometimes,no,yes,67,male,acute stress,sometimes,no,no,no,yes,no,no,no,no
+no,2,no,157,96,3,no,no,never,no,yes,83,female,chronic stress,never,no,no,no,yes,yes,yes,no,no
+no,3,yes,182,56,3,no,no,never,no,yes,70,male,chronic stress,sometimes,no,yes,no,yes,no,no,yes,no
+no,2,yes,174,52,2,yes,yes,never,no,yes,73,male,chronic stress,sometimes,no,no,yes,yes,yes,yes,no,yes
+yes,3,no,168,92,4,no,no,never,yes,yes,70,female,episodic,sometimes,yes,no,no,no,no,no,yes,yes
+no,5,no,166,74,2,no,no,never,no,yes,67,male,chronic stress,never,no,yes,no,yes,yes,yes,yes,no
+no,5,no,184,70,2,no,no,sometimes,no,yes,79,male,chronic stress,sometimes,no,no,yes,yes,no,no,no,no
+yes,4,yes,145,63,3,no,no,never,no,yes,73,male,chronic stress,sometimes,yes,yes,no,no,yes,yes,yes,yes
+no,4,no,141,99,2,no,no,sometimes,no,yes,79,male,acute stress,frequently,no,no,no,no,no,yes,no,no
+no,5,no,142,89,3,no,no,never,no,yes,68,male,chronic stress,frequently,no,no,yes,yes,yes,no,no,no
+no,4,no,159,76,2,no,no,sometimes,no,yes,74,male,acute stress,sometimes,no,yes,no,no,no,yes,no,yes
+no,3,no,179,84,3,no,no,never,no,yes,68,male,acute stress,frequently,no,no,no,yes,yes,no,no,no
+no,3,yes,158,57,2,no,no,frequently,no,yes,70,male,chronic stress,never,no,yes,no,yes,no,no,yes,no
+yes,4,yes,153,93,3,no,no,sometimes,yes,yes,84,female,episodic,frequently,no,yes,yes,yes,no,no,no,no
+no,4,yes,142,61,2,no,no,sometimes,no,yes,79,male,acute stress,sometimes,no,yes,no,yes,yes,yes,yes,no
+no,5,yes,161,99,2,no,no,never,no,yes,78,male,episodic,sometimes,no,yes,no,yes,no,yes,no,no
+yes,4,yes,156,63,3,no,yes,never,no,yes,77,female,chronic stress,sometimes,yes,no,yes,no,no,yes,no,yes
+no,3,no,166,91,2,no,no,sometimes,no,yes,73,female,acute stress,never,no,yes,no,yes,yes,yes,yes,no
+yes,4,no,177,45,3,no,no,never,no,yes,75,female,chronic stress,sometimes,no,no,no,no,no,yes,yes,no
+yes,3,yes,177,53,3,no,yes,never,no,yes,74,female,acute stress,sometimes,no,yes,no,no,yes,no,no,no
+no,3,no,164,59,3,no,no,never,no,yes,78,female,chronic stress,sometimes,yes,yes,yes,yes,no,yes,yes,yes
+no,3,yes,166,83,3,no,yes,never,no,yes,83,male,chronic stress,never,no,yes,no,yes,no,yes,no,no
+yes,2,yes,140,46,2,yes,yes,never,no,yes,69,male,acute stress,sometimes,no,no,no,yes,no,yes,yes,no
+no,3,yes,163,65,3,no,no,never,no,yes,81,male,chronic stress,sometimes,no,yes,no,no,no,no,no,no
+yes,5,yes,156,76,2,no,yes,never,yes,yes,82,male,episodic,frequently,no,no,yes,no,no,no,yes,no
+no,3,yes,141,58,3,yes,yes,sometimes,yes,yes,83,male,acute stress,sometimes,yes,yes,no,yes,no,no,yes,no
+no,3,no,162,48,2,no,no,sometimes,no,yes,75,female,chronic stress,sometimes,yes,yes,no,yes,no,no,yes,no
+no,4,yes,187,76,2,no,no,never,no,yes,74,female,chronic stress,sometimes,no,yes,no,yes,yes,yes,no,no
+yes,3,no,165,67,3,no,no,never,no,yes,73,male,chronic stress,sometimes,no,no,yes,no,yes,yes,yes,no
+no,5,no,168,64,3,no,no,frequently,no,yes,68,female,chronic stress,sometimes,no,no,no,yes,no,no,no,no
+no,4,no,165,45,4,no,no,sometimes,no,yes,83,female,chronic stress,frequently,no,no,yes,yes,yes,no,no,no
+no,3,no,156,86,4,no,no,never,no,yes,70,female,acute stress,sometimes,yes,no,yes,no,no,no,yes,no
+no,2,yes,174,62,3,no,no,never,no,no,67,female,chronic stress,sometimes,no,yes,no,no,yes,no,no,no
+no,3,no,161,99,2,no,no,frequently,no,yes,77,male,acute stress,sometimes,no,no,no,no,no,no,no,no
+no,3,no,177,68,2,no,no,frequently,no,yes,78,male,chronic stress,never,no,no,no,yes,no,yes,no,no
+no,3,yes,145,58,3,no,no,sometimes,no,no,85,male,acute stress,frequently,no,yes,yes,no,no,no,no,no
+no,1,no,169,84,3,no,yes,sometimes,no,yes,66,female,chronic stress,sometimes,no,no,yes,no,yes,yes,no,no
+no,3,no,157,83,3,no,no,frequently,no,yes,69,female,chronic stress,sometimes,no,no,yes,no,yes,no,no,no
+no,4,no,180,97,4,no,no,never,no,no,73,female,acute stress,never,yes,yes,yes,no,yes,no,no,no
+no,1,yes,147,58,4,no,no,never,no,no,77,female,chronic stress,frequently,no,yes,no,yes,yes,yes,no,no
+no,5,no,150,98,3,no,no,frequently,no,no,77,female,chronic stress,never,no,no,no,yes,no,no,no,no
+no,4,yes,148,67,4,no,no,frequently,no,no,82,male,acute stress,never,no,yes,no,yes,yes,yes,no,no
+no,3,yes,162,51,2,no,yes,never,yes,no,85,female,episodic,sometimes,no,yes,no,yes,yes,yes,no,no
+yes,5,yes,180,52,3,no,yes,sometimes,no,no,75,female,acute stress,sometimes,yes,no,no,no,no,yes,yes,no
+no,3,yes,157,51,4,no,no,sometimes,yes,no,78,male,chronic stress,sometimes,yes,no,yes,no,no,yes,yes,no
+yes,4,yes,155,54,3,no,yes,sometimes,no,no,69,male,acute stress,sometimes,yes,no,no,yes,no,no,yes,no
+yes,4,yes,174,60,4,yes,yes,sometimes,no,no,85,female,acute stress,sometimes,yes,no,no,yes,yes,yes,yes,yes
+no,5,yes,159,71,3,yes,yes,sometimes,no,no,84,male,chronic stress,frequently,yes,no,no,no,yes,no,yes,yes
+yes,4,yes,171,55,4,no,no,frequently,yes,no,65,male,chronic stress,frequently,yes,yes,yes,no,no,yes,no,yes
+no,4,yes,141,79,3,no,no,never,no,no,66,female,acute stress,frequently,no,no,no,yes,yes,yes,yes,yes
+yes,3,no,144,79,3,no,yes,never,no,no,82,male,chronic stress,never,no,no,no,yes,yes,yes,yes,no
+no,4,yes,163,61,3,no,yes,never,no,no,68,female,acute stress,sometimes,no,no,yes,no,yes,yes,yes,no
+yes,3,yes,144,75,2,no,no,frequently,no,no,78,female,acute stress,never,no,yes,yes,no,yes,no,yes,no
+no,2,yes,178,67,3,no,yes,sometimes,no,no,67,male,chronic stress,sometimes,no,yes,no,no,yes,yes,no,yes
+no,4,yes,174,77,4,yes,yes,frequently,yes,no,71,female,acute stress,sometimes,yes,yes,no,yes,no,yes,no,no
+no,4,yes,172,55,3,yes,no,never,no,no,69,male,episodic,sometimes,no,yes,no,yes,no,yes,yes,no
+no,3,yes,151,58,3,no,no,never,yes,no,80,female,acute stress,frequently,no,no,yes,no,yes,yes,no,no
+no,3,yes,148,50,3,no,yes,frequently,no,no,72,female,chronic stress,frequently,no,no,yes,no,yes,no,no,no
+no,3,yes,155,82,2,no,yes,sometimes,no,no,78,female,acute stress,never,no,no,yes,no,yes,no,no,yes
+no,3,no,186,76,2,no,no,sometimes,no,no,68,female,chronic stress,never,no,no,yes,no,no,no,no,no
+no,1,yes,150,67,1,no,yes,frequently,yes,no,78,female,episodic,sometimes,no,yes,no,no,yes,no,no,no
+no,3,no,153,62,3,no,no,sometimes,no,no,81,female,acute stress,sometimes,no,yes,no,yes,no,no,yes,no
+yes,1,yes,179,56,4,no,no,frequently,yes,no,74,female,chronic stress,sometimes,yes,no,yes,yes,yes,no,yes,no
+no,4,yes,176,49,2,no,no,sometimes,no,no,83,female,acute stress,sometimes,no,yes,yes,no,no,yes,yes,no
+no,4,yes,172,93,2,no,no,never,no,no,82,female,acute stress,frequently,no,no,yes,no,no,no,yes,no
+no,2,yes,181,62,2,no,no,never,no,no,75,female,chronic stress,never,no,yes,yes,yes,yes,yes,no,no
+yes,4,yes,155,49,3,yes,yes,frequently,yes,no,79,female,acute stress,sometimes,yes,yes,no,no,no,yes,no,yes
+yes,4,yes,172,55,2,no,yes,sometimes,yes,no,65,female,chronic stress,frequently,yes,yes,no,no,yes,no,no,yes
+yes,3,yes,174,82,2,no,yes,sometimes,no,no,79,female,acute stress,sometimes,yes,yes,yes,yes,no,no,yes,no
+yes,2,yes,182,47,1,no,no,never,no,no,66,female,acute stress,frequently,yes,no,yes,yes,no,no,yes,no
+no,3,yes,187,68,2,no,no,never,no,no,74,male,chronic stress,never,no,yes,no,yes,yes,no,no,no
+yes,2,yes,184,91,3,no,no,sometimes,yes,no,72,female,episodic,frequently,no,no,no,no,yes,yes,no,no
+no,3,no,163,93,3,no,yes,frequently,no,no,65,female,chronic stress,never,no,no,no,no,no,no,no,no
+yes,3,no,167,46,3,no,no,sometimes,no,no,84,female,chronic stress,sometimes,no,yes,yes,yes,no,no,yes,no
+no,2,yes,176,85,3,no,yes,sometimes,no,no,68,female,chronic stress,never,no,no,yes,no,no,no,no,no
+no,3,no,186,50,2,no,no,frequently,no,no,68,female,chronic stress,frequently,no,no,no,yes,yes,yes,no,no
+yes,4,yes,145,90,3,yes,no,frequently,no,no,66,female,chronic stress,sometimes,yes,no,no,no,yes,yes,no,yes
+yes,3,yes,152,85,3,no,yes,frequently,no,no,83,female,chronic stress,sometimes,no,yes,yes,no,yes,no,no,no
+yes,3,no,172,70,3,yes,no,never,no,no,85,female,chronic stress,sometimes,yes,no,yes,yes,no,no,no,yes
+no,2,no,169,93,4,no,no,frequently,no,no,74,female,episodic,sometimes,no,no,yes,no,no,no,no,no
+yes,3,yes,141,58,3,no,no,sometimes,no,no,84,female,chronic stress,frequently,yes,yes,yes,yes,no,yes,yes,no
+yes,3,yes,163,85,2,no,no,never,yes,no,79,female,acute stress,never,yes,yes,yes,no,no,yes,yes,no
+yes,2,yes,141,90,1,yes,no,sometimes,yes,no,73,female,chronic stress,never,yes,yes,yes,no,yes,yes,yes,no
+yes,4,yes,161,85,3,yes,no,frequently,yes,no,84,female,chronic stress,never,yes,yes,no,no,no,no,yes,yes
+yes,3,yes,170,95,2,yes,yes,never,yes,no,69,female,chronic stress,sometimes,yes,yes,no,no,yes,yes,yes,yes
+yes,3,yes,148,68,3,yes,yes,frequently,yes,no,79,female,chronic stress,frequently,yes,yes,no,yes,no,no,yes,yes
+yes,3,yes,145,93,2,yes,no,never,yes,no,82,male,acute stress,sometimes,yes,yes,no,yes,yes,yes,yes,yes
+yes,4,yes,140,82,3,yes,no,never,yes,no,70,female,acute stress,sometimes,yes,yes,no,yes,yes,yes,yes,yes
+yes,3,yes,183,49,3,yes,yes,frequently,yes,no,76,female,acute stress,sometimes,yes,yes,yes,yes,yes,yes,yes,yes
+yes,2,yes,169,71,3,yes,no,never,yes,no,74,male,chronic stress,never,yes,yes,no,yes,yes,no,yes,yes
+yes,3,yes,162,87,3,yes,no,never,yes,no,76,female,episodic,sometimes,yes,yes,no,yes,yes,yes,yes,yes
+yes,2,yes,143,68,2,yes,yes,never,yes,no,66,female,acute stress,sometimes,yes,yes,yes,no,yes,no,yes,yes
+yes,3,yes,163,79,4,yes,yes,never,yes,no,82,female,acute stress,never,yes,yes,no,yes,yes,no,yes,yes
+yes,5,yes,183,87,2,yes,no,never,yes,no,74,female,chronic stress,never,yes,yes,no,yes,yes,no,yes,yes
+yes,5,yes,167,92,2,yes,yes,sometimes,yes,no,81,female,acute stress,sometimes,yes,yes,yes,yes,no,yes,yes,yes
+yes,4,yes,190,55,3,yes,yes,never,yes,no,74,female,acute stress,sometimes,yes,yes,no,yes,no,no,yes,yes
+yes,4,yes,156,87,2,yes,yes,sometimes,yes,no,84,female,acute stress,frequently,yes,yes,no,yes,yes,no,yes,yes
+yes,5,yes,163,83,3,yes,yes,never,yes,no,76,male,episodic,frequently,yes,yes,yes,no,yes,yes,yes,yes
+yes,4,yes,162,63,2,yes,yes,sometimes,yes,no,75,male,episodic,sometimes,yes,yes,no,yes,no,yes,yes,yes
+yes,3,yes,188,46,3,yes,no,never,yes,no,77,female,episodic,frequently,yes,yes,no,no,yes,no,yes,yes
+yes,3,yes,180,81,2,no,no,frequently,yes,no,75,female,acute stress,never,yes,yes,no,no,yes,yes,yes,yes
+yes,4,yes,172,56,3,yes,no,sometimes,yes,no,66,female,episodic,frequently,yes,yes,yes,yes,yes,no,yes,yes
+yes,4,yes,160,86,2,yes,no,sometimes,yes,no,67,female,episodic,sometimes,yes,yes,no,no,yes,yes,yes,yes
+yes,5,yes,162,53,2,yes,yes,never,yes,no,85,female,acute stress,sometimes,yes,yes,no,no,no,no,yes,yes
+yes,4,yes,169,55,3,yes,yes,never,yes,no,85,male,acute stress,sometimes,yes,yes,yes,no,no,yes,yes,yes
+yes,3,no,151,46,2,yes,no,sometimes,yes,no,84,female,acute stress,never,yes,yes,no,no,no,no,yes,no
+yes,5,yes,172,59,2,no,no,sometimes,no,no,68,female,acute stress,frequently,yes,yes,no,yes,yes,no,yes,no
+yes,3,yes,170,70,3,no,no,never,no,no,82,female,acute stress,sometimes,yes,yes,no,no,yes,no,yes,yes
+yes,4,yes,150,65,3,yes,yes,never,yes,no,79,female,chronic stress,sometimes,yes,yes,yes,no,no,yes,no,yes
+yes,4,no,143,78,2,no,no,never,no,no,84,female,acute stress,frequently,yes,no,no,no,yes,yes,yes,yes
+yes,3,yes,143,59,2,no,no,never,yes,no,68,female,acute stress,never,yes,yes,no,yes,yes,yes,yes,no
+yes,5,yes,177,53,4,yes,yes,never,yes,no,68,female,episodic,sometimes,yes,yes,no,yes,no,no,yes,yes
+yes,3,no,146,95,3,yes,no,never,yes,no,74,female,acute stress,never,yes,yes,no,no,yes,yes,no,yes
+yes,4,yes,156,68,3,no,no,never,yes,yes,66,male,episodic,sometimes,yes,yes,no,yes,yes,no,yes,yes
+yes,2,yes,145,76,2,no,no,never,yes,yes,83,female,acute stress,frequently,yes,yes,yes,no,yes,yes,yes,yes
+yes,2,yes,152,65,3,yes,no,never,yes,yes,83,female,acute stress,frequently,yes,yes,yes,no,no,no,yes,yes
+yes,5,no,175,53,3,yes,no,never,yes,yes,80,female,acute stress,never,yes,yes,yes,no,no,yes,yes,yes
+yes,4,yes,171,94,3,no,no,never,yes,yes,75,female,acute stress,never,yes,yes,no,yes,yes,no,yes,yes
+yes,3,yes,148,92,3,yes,no,never,yes,yes,70,female,chronic stress,sometimes,yes,yes,no,yes,no,yes,yes,yes
+yes,5,yes,171,85,4,yes,yes,never,yes,yes,75,female,episodic,sometimes,yes,yes,yes,no,no,yes,yes,yes
+yes,2,yes,166,68,4,yes,yes,sometimes,yes,yes,84,female,episodic,frequently,yes,yes,yes,yes,yes,yes,yes,yes
+yes,3,yes,188,76,3,yes,yes,never,yes,yes,71,female,episodic,never,yes,yes,yes,yes,no,no,yes,yes
+yes,2,yes,145,52,4,yes,yes,sometimes,yes,yes,80,female,acute stress,frequently,yes,yes,yes,no,no,yes,yes,yes
+yes,3,yes,149,63,2,yes,yes,never,yes,yes,65,male,episodic,sometimes,yes,yes,yes,yes,yes,no,yes,yes
+yes,2,yes,166,60,4,yes,yes,sometimes,yes,yes,79,male,acute stress,never,yes,yes,no,no,yes,yes,yes,yes
+no,5,yes,179,100,3,no,no,never,no,yes,78,female,chronic stress,sometimes,no,yes,no,yes,no,yes,yes,no
